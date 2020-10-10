@@ -1,0 +1,819 @@
+ 
+
+Mol Biol 3V03 
+Techniques in Molecular Genetics  
+Winter 2020 Course Outline 
+ 
+
+Course Details 
+
+ 
+Instructor: Prof. Herb Schellhorn, LSB433, 905-525-9140   x 27316 
+
+Office hours: Tuesdays 10:00am-12:00pm  (by Microsoft Teams) 
+
+Lectures: Thursdays, 9:30am-10:20am, Location To Be Determined  
+
+Labs: Scheduled as 2 x 3.0 h labs each week. Refer to your MOSAIC timetable for details on 
+
+Calendar course description  
+
+Course Description 
+
+ 
+A laboratory course providing hands-on experience in experimental design and molecular 
+biology and molecular genetic techniques. 
+One lecture, two labs (three hours each); one term 
+Prerequisite(s): BIOLOGY 2EE3; and credit or registration in MOLBIOL 3O03 ; and registration in 
+Level III or above of an Honours program in Biology or Molecular Biology and Genetics. If not 
+already completed, BIOSAFE 1BS0 (or HTHSCI 1BS0) and WHMIS 1A00 must be done prior to the 
+first lab. 
+Antirequisite(s): BIOLOGY 3VV3 
+
+The goal of this course is for students to gain experience in performing diverse molecular genetic 
+techniques, and hone their critical thinking and research skills. 
+
+Materials and Fees 
+Lab coat: $26 from the Campus Store, if you do not already have one. 
+
+ 
+
+Lab/TAs: TBA 
+
+dates & times
+
+ 
+Course Scope 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+Course Learning Objectives 
+
+ 
+By the end of this course students will: 
+ 
+Lectures 
+
+•  Understand molecular biology objectives. 
+•  Be able to develop a genetic model to explain experimental phenotypic results. 
+•  Understand bacterial genetic nomenclature. 
+•  Gain and appreciation for the history of Molecular Biology 
+•  Understand how to apply reductionist principles to scientific problems (and understand their 
+
+limitations. 
+
+•  Use scientific reasoning to resolve experimental outcomes. 
+•  Understand current techniques in Molecular Biology. 
+• 
+
+Learn how Molecular Biology will impact future societal goals. 
+
+Laboratories 
+
+•  Plan and execute experiments. 
+•  Quantify protein, DNA and determine enzyme activity. 
+•  Use mutagenesis to generate loss of function mutants to identify gene/proteins relationships. 
+•  Maintain a laboratory notebook. 
+•  Write a scientific report. 
+
+Course Schedule 
+
+The schedule (below)  used in 2019—the 2020 schedule will be very similar. The final schedule will be 
+posted one week before the first scheduled class. 
+ 
+Lectures 
+One lecture per week, where we will discuss the theory behind the up-coming labs, the techniques that 
+will be used (along with alternative strategies that could be employed), and controls that will be 
+important for experimental interpretation. 
+
+Two labs will be held twice per week in LSB 102 and LSB 103. Students will also be required to 
+occasionally check on results outside of lab time. 
+
+ 
+
+Instructor Lectures (synchronous) will be given live with a designated time at the end of each lectures 
+to answer questions arising from the material.  
+ 
+This is the weekly plan for the course. Because of the nature of lab work, it may change if 
+circumstances dictate.  Note the schedule is given for the 2019 offering.  Dates will be modified for the 
+2021 offering. 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lecture 
+ 
+
+Week 1  
+
+Week 2 
+ 
+
+Week 3  
+
+Week 4  
+
+Week 5  
+
+ 
+Week 6 
+ 
+
+Week 7  
+
+Week 8     
+
+ 
+Gene deletion 
+(general), PCR primer 
+design and 
+phenotypic/genotypic 
+assessment 
+Gene deletion – PCR 
+targeting; anticipating 
+& predicting results; 
+mutation 
+ 
+ 
+DNA: in silico 
+investigation, and in- 
+lab isolation 
+
+ 
+ 
+ 
+Cloning and ligations 
+
+ 
+Transformations and 
+choice of bacterial 
+strain. 
+ 
+ 
+ 
+ 
+ 
+ 
+Protein 
+overexpression and 
+purification; different 
+gel options 
+(Bradford assay for 
+Protein quantitation) 
+
+ 
+
+Lab Period 1 
+
+Lab Period 2 
+
+Evaluations 
+
+ 
+ 
+
+Introduction 
+(1A) Plate streaking 
+General: pipetting review 
+and solution preparation 
+
+ 
+ 
+
+(1B) PCR of ‘knockout 
+cassette’ for csgD 
+deletion (1A) Evaluate 
+plates from Thurs 
+
+(1B) PCR check and 
+clean- up 
+
+Accurate  
+pipetting 
+(lab) 
+
+(1B) Create mutant 
+(introduce knockout  
+cassette into E. coli) 
+
+ 
+(1B) Test mutation 
+success using colony PCR 
+ 
+
+ 
+
+(1B) Evaluate mutation 
+success 
+(1B) Complement mutant 
+ 
+
+(1B) Test effect of 
+complementation  
+(1C) Isolate plasmids for 
+reporter fusion 
+construction 
+
+ 
+Streak for single 
+colonies (lab) 
+ 
+ 
+
+(1B) Assess 
+complementation 
+success 
+(1C) Amplify promoter 
+for cloning 
+(2A/B) Test S. venezuelae 
+spore concentration 
+
+(1C) Clean up PCR, and 
+digest product (plus 
+plasmid) in preparation 
+for cloning 
+
+ 
+Aseptic  
+technique (lab) 
+ 
+ 
+
+(1C) Ligate products to 
+create a csgD-lacZ 
+reporter fusion 
+
+(1C) Transform product 
+into E. coli 
+
+Hand in 1st lab 
+report (Oct 9th) 
+Hand in lab 
+notebooks (Oct 11th) 
+ 
+
+Semester break 
+
+ 
+
+(1C) Test success of 
+fusion construction 
+(1D) Transform fusion 
+construct into E. coli 
+mutants 
+
+(1D) Assess success of 
+transformations 
+(1D) Pour SDS-PAGE 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+3 
+
+ 
+
+Lecture 
+
+Lab Period 1 
+
+Lab Period 2 
+
+Evaluations 
+
+ 
+ 
+EMSAs and 
+mutagenesis 
+ 
+
+Week 9  
+
+ 
+ 
+CRISPR 
+
+ 
+Week 10 
+ 
+
+ 
+ 
+ 
+After the 
+mutagenesis… 
+ 
+
+ 
+Week 11 
+ 
+
+ 
+
+ 
+
+ 
+
+Week 12 
+ 
+
+Week 13 
+ 
+
+Week 14 
+ 
+
+(1D) Compare 
+phenotypes of reporter-
+containing strains 
+(1D) Lyse cells and run 
+extracts on SDS-PAG 
+
+(1D) Run EMSA 
+(2A) Conjugate CRISPR 
+construct into S. 
+venezuelae 
+
+(2A) Streak out CRISPR 
+exconjugants for single 
+colonies 
+(2B) Analyze 
+mutagenesis outcomes 
+(2B) Set up screen for 
+mutants of interest 
+
+ 
+(2A) Colony PCR on 
+candidate mutants 
+(2B) Test candidate 
+genes by PCR 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(1D) Perform Bradford 
+assay (with std. curve) 
+(1D) Pour EMSA gel 
+(PAGE) 
+
+(2B) Plan mutagenesis, 
+and conduct expt. 
+(2A/2B) Practice 
+streaking out S. 
+venezuelae for single 
+colonies 
+
+(2A) Patch out a 
+selection of candidate 
+mutants  
+(2B) Patch out mutants 
+of interest 
+
+Hand in 2nd lab 
+report 
+(Nov 14th) 
+
+(2A) Assess CRISPR 
+success 
+(2B) Clean up PCR 
+reactions and check on 
+gel (will be sent for 
+sequencing, and results 
+will be emailed to you) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hand in 3rd lab 
+report 
+(Dec 6th) 
+Hand in lab 
+notebooks 
+(Dec 6th) 
+
+4 
+
+ 
+Late Work, Missed Work, and Extensions 
+Late submissions will be penalized with a 10% per day deduction on the grade of the assignment. 
+Students will be able to make up missed work following the guidelines 
+under the Request for Relief for Missed Academic Work policy. Missed work cannot be 
+made up without a valid MSAF or permission from the Faculty Office, as appropriate. Extensions 
+may be given for medical or compassion reasons, or during extreme circumstances. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+IMPORTANT NOTE 
+The instructor and University reserve the right to modify elements of the course during the term. The university 
+may change the dates and deadlines for any or all courses in extreme circumstances. If any modification becomes 
+necessary, reasonable notice and communication with the students will be given with explanation and the 
+opportunity to comment on changes. It is the responsibility of the student to check their McMaster email and 
+course websites weekly during the term and to note any changes.  Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or McMaster 
+email. 
+
+Course Materials 
+
+ 
+Reference textbook: 
+ 
+There is no text for this course. Registered students will be provided with a suggested reading 
+list one week before the start of the course. 
+ 
+
+Course Evaluation 
+
+The course grading will  be based on the following weighting. 
+ 
+
+Evaluation 
+15% Lab notebook 
+35% Lab reports (3) 
+15% Online activities/completion of case studies: 
+20% Final exam 
+15% Lab performance (competence, pre-lab quizzes, peer evaluation) 
+
+Lab notebook (15%) 
+It is critical that you take notes in the lab while you are doing the work. These notes should be 
+written into a laboratory notebook as you do the work. They should contain: 
+
+- 
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+- 
+
+a sentence on the objective of the experiment  
+the date when each experiment was performed (this can often be one of the most useful 
+pieces of information in a lab notebook)  
+reagents added (and volumes of each) for enzyme reactions/assays performed 
+(e.g. PCR, restriction enzyme digestions, ligations, EMSAs)  
+other technical numerical information such as incubation times (start, end, duration), 
+temperatures, PCR programs, antibiotic concentrations in the plates, agarose gel 
+percentages, etc.  
+any modifications of the procedure or ways in which you deviated from the 
+manual  
+expectation of experimental outcomes (e.g. anticipated PCR product size)  
+the results you obtained (in the form of the data as you actually obtained them), with 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+everything very well labelled (e.g. what is shown in each lane of your gel picture?)  
+a conclusion, stating what the experiment showed (and whether it matched what 
+you predicted the outcome would be)  
+
+These sorts of notes are incredibly important when trying to troubleshoot experimental problems. 
+Getting comfortable with this now will help you tremendously in future lab work (co-op terms, thesis 
+positions, etc.). To encourage you to follow these recommendations, your lab notes will be signed at 
+the end of each class by your TA, and will be evaluated twice during the term (once after the mid- 
+term break, and once at the end of term). Lab notebooks will be submitted at the end of the labs. A 
+sample page has been provided for you in the ‘Helpful Information’ section on Avenue. 
+ 
+Lab reports (35%) 
+There will be three full lab reports. The relative percentage associated with each of these may 
+be subject to change. 
+
+10% 
+10% 
+15% 
+
+1st report covering Experiment 1A,B 
+2nd report covering Experiment 1C,D 
+3rd report covering Experiment 2 
+
+You can find more detail about the lab reports, and what is expected to go into them (along with 
+excellent examples) in the ‘Helpful Information’ section of Avenue. Lab reports will be submitted 
+in person to your TAs at the beginning of the labs. 
+
+Quizzes/activities/case studies (15%) 
+Many of the lecture classes will be associated with online quizzes on the theory behind the week’s 
+labs. These are intended to provide you with an opportunity to practice different skills (both 
+technical and critical-thinking types), and to give me feedback on 
+areas where some additional discussion might be useful. Case studies will also be provided on a 
+relatively regular basis, to help you work through some of the more challenging concepts. Online 
+quizzes will be submitted online. Prelab quizzes will be handed out and submitted within the first 
+10 min of each lab to the TAs. Case studies will be submitted to your TAs during lab time. 
+
+Exam (20%) 
+The Final Written Exam will deal with both theory and practice of the material covered in the lectures 
+and laboratory exercises. 
+
+Lab performance (15%) 
+This mark will encompass a number of different factors/components, including (but not 
+limited to):  
+
+- performance on competence exercises 
+- performance on self-directed aspects of the labs 
+- lab citizenship (e.g. cleaning up after yourself) 
+- pre-lab quizzes/activities 
+
+- peer evaluation on your contribution to lab work 
+ 
+This course may use online proctoring software for tests and exams. This software may require students 
+to turn on their video camera, present identification, monitor and record their computer activities, 
+
+6 
+
+ 
+
+and/or lock/restrict their browser or other applications/software during tests or exams. This software 
+may be required to be installed before the test/exam begins. 
+ 
+
+Academic Integrity 
+
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process. 
+Academic credentials you earn are rooted in principles of honesty and academic integrity. It is your 
+responsibility to understand what constitutes academic dishonesty. 
+
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious consequences, e.g. the 
+grade of zero on an assignment, loss of credit with a notation on the transcript (notation reads: 
+“Grade of F assigned for academic dishonesty”), and/or suspension or expulsion from the university. 
+For information on the various types of academic dishonesty please refer to the Academic Integrity 
+Policy, located at https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+
+The following illustrates only three forms of academic dishonesty: 
+
+●  plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+
+obtained. 
+
+● 
+
+improper collaboration in group work. 
+
+●  copying or using unauthorized aids in tests and examinations. 
+
+Authenticity/Plagiarism Detection 
+
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and ownership of 
+student submitted work. For courses using such software, students will be expected to submit their 
+work electronically either directly to Turnitin.com or via an online learning platform (e.g. Avenue to 
+Learn, etc.) using plagiarism detection (a service supported by Turnitin.com) so it can be checked for 
+academic dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection software must 
+inform the Instructor before the assignment is due. No penalty will be assigned to a student who does 
+not submit work to the plagiarism detection software. All submitted work is subject to normal 
+verification that standards of academic integrity have been upheld (e.g., on-line search, other 
+software, etc.). For more details about McMaster’s use of Turnitin.com please go to 
+www.mcmaster.ca/academicintegrity. 
+
+ 
+
+Courses with an On-line Element 
+
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn, LearnLink, web pages, capa, 
+Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, when they 
+access the electronic components of a course using these elements, private information such as first and 
+last names, user names for the McMaster e-mail accounts, and program affiliation may become 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+apparent to all other students in the same course. The available information is dependent on the 
+technology used. Continuation in a course that uses on-line elements will be deemed consent to this 
+disclosure. If you have any questions or concerns about such disclosure please discuss this with the 
+course instructor. 
+ 
+
+Online Proctoring 
+
+Some courses may use online proctoring software for tests and exams. This software may require 
+students to turn on their video camera, present identification, monitor and record their computer 
+activities, and/or lock/restrict their browser or other applications/software during tests or exams. This 
+software may be required to be installed before the test/exam begins. 
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, 
+respectful and dignified interactions within all of our living, learning and working communities. These 
+expectations are described in the Code of Student Rights & Responsibilities (the “Code”). All students 
+share the responsibility of maintaining a positive environment for the academic and personal growth 
+of all McMaster community members, whether in person or online. 
+
+It is essential that students be mindful of their interactions online, as the Code remains in effect in 
+virtual learning environments. The Code applies to any interactions that adversely affect, disrupt, or 
+interfere with reasonable participation in University activities. Student disruptions or behaviours that 
+interfere with university functions on online platforms (e.g. use of Avenue 2 Learn, WebEx, Echo360, 
+Microsoft Teams or Zoom for delivery), will be taken very seriously and will be investigated. Outcomes 
+may include restriction or removal of the involved students’ access to these platforms. 
+ 
+
+Academic Accommodation of Students with Disabilities 
+
+Students with disabilities who require academic accommodation must contact Student Accessibility 
+Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program 
+Coordinator. For further information, consult McMaster University’s Academic Accommodation of 
+Students with Disabilities policy. 
+ 
+
+Requests for Relief for Missed Academic Term Work 
+
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other reasons, 
+students should review and follow the Academic Regulation in the Undergraduate Calendar “Requests 
+for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+Students requiring academic accommodation based on religious, indigenous or spiritual observances 
+should follow the procedures set out in the RISO policy. Students should submit their request to their 
+Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need 
+for accommodation or to the Registrar's Office prior to their examinations. Students should also contact 
+their instructors as soon as possible to make alternative arrangements for classes, assignments, and 
+tests. 
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course material 
+provided by an instructor include copyright protected works. The Copyright Act and copyright law 
+protect every original literary, dramatic, musical and artistic work, including lectures by University 
+instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by a 
+student for the purpose of personal study. Students should be aware that their voice and/or image may 
+be recorded by others during the class. Please speak with the instructor if this is a concern for you. 
+ 
+
+Extreme Circumstances 
+
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or 
+McMaster email. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+ 
+
+

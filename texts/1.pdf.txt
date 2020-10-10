@@ -1,0 +1,736 @@
+ 
+
+ 
+
+ 
+
+ONLINE SUMMER 2020 
+BIOLOGY 1A03 CELLULAR AND MOLECULAR BIOLOGY 
+ 
+PROFESSOR 
+Dr. Lovaye Kajiura 
+McMaster University, Department of Biology 
+(not available on campus during the Summer 2020 term) 
+E-mail: kajiura@mcmaster.ca 
+Virtual office hours: to be posted on the Avenue online learning platform. 
+ 
+COURSE / LABORATORY COORDINATOR 
+Dr. Sajeni Mahalingam 
+McMaster University, Department of Biology 
+(not available on campus during the Summer 2020 term) 
+E-mail: bio1a03@mcmaster.ca 
+
+ 
+COURSE DESCRIPTION   
+Structure, molecular composition, and function in sub-cellular and cellular systems. 
+ 
+Prerequisites  
+Grade 12 Biology U or Biology 1P03 and registration in any Level 1 program in the Faculty of Science or any program above 
+Level  1;  or  any  program  above  Level  1;  or  registration  in  Arts  &  Science  I,  Medical  Radiation  Sciences  I,  Chemical 
+Engineering and Bioengineering, Electrical and Biomedical Engineering. Not open to students with credit or registration in 
+ISCI 1A24.  
+ 
+Corequisites 
+WHMIS 1A00, BIOSAFE 1BS0 if not already completed. Both corequisites must be completed prior to the first lab. Students 
+enrolled in Biology 1A03 must also register in WHMIS 1A00 and BIOSAFE 1BS0.  
+All Biology 1A03 students must have completed the WHMIS 1A00 & BIOSAFE 1BS0 Safety Workshops to participate in the 
+1A03 labs. These safety courses are being offered on Avenue. For information regarding the Safety Workshops, refer to 
+their  listings  posted  on  Avenue  or  visit  the  Environmental  &  Occupational  Health  Support  Services  website 
+eohss@mcmaster.ca 
+ 
+BIOLOGY 1A03 COURSE GOALS & OBJECTIVES 
+The Biology 1A03 course is designed for students who intend to specialize in Science programs and is required for many 
+upper level courses in the Faculty of Science. Upon completion of Biology 1A03, students will be able to:    
+ 
+       1. Effectively discuss the fundamental concepts and underlying processes related to cellular and molecular  
+           biology. 
+        
+       2. Design and test laboratory experiments necessary for biological sciences. 
+ 
+       3. Work independently and in collaboration with others to compile, analyze, interpret, and present scientific  
+           data using oral, written, and online formats. 
+ 
+The primary goal of the course is to prepare students academically for subsequent, specialized Biology courses and to 
+ensure that students acquire skills essential for upper-level biology courses and biology-related fields of study. 
+
+1 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+IMPORTANT 
+ 
+ACADEMIC PROPERTY STATEMENT 
+
+NO part of the BIOLOGY 1A03 online lectures, lecture notes, online discussions, course-related information or 
+resources may be reproduced, in any form or by any means, without permission in writing by the Biology 1A03 
+professor, Dr. Lovaye Kajiura. 
+ 
+NO photos, visual media, voice recordings, Powerpoint slides, MP3 media or lecture-related information may be 
+reproduced or communicated by any means. Usage of cameras or video / camera-capable cellphones, 
+smartphones or digital wireless media are not permitted to be used during online lectures. 
+ 
+Students who have access to authorized recorded lectures in a course may use these recordings only for 
+personal study and should not reproduce, share or upload the recording to any publicly accessible web 
+environment.  Similarly, notes, slides, evaluations and tests are for personal use only and must not be shared 
+with others outside of the Biology 1A03 course. 
+ 
+
+ 
+BIOLOGY 1A03 LECTURE CONTENT 
+Refer to the 2020 Spring/Summer Session Undergraduate Course Timetable. 
+Biology 1A03 is taught in an online format, meaning that you will learn the course content at your own pace and on your 
+own time through online visually rich web modules and instructional podcasts. The online modules will be released 
+weekly. The instructional podcasts will also include online review lectures and applied lectures. Online review lectures will 
+give you the opportunity to clarify concepts that you may have found challenging. Online applied lectures will be used to 
+explore applied contexts with examples from innovative research and data analytics. Online review and applied lecture 
+podcasts will be available weekly on Wednesdays (up to 3 hours in duration). Given the current situation, the online 
+lectures will be presented asynchronously (pre-recorded) to provide greater flexibility in learning for students living in 
+different time zones and those students with varied work schedules. 
+ 
+The Biology 1A03 review and applied lectures will be a synthesis of several sources of information. Please note that 
+students are expected to study all lecture materials. Students will benefit the most by including their own detailed written 
+or typed notes into the provided Biology 1A03 lecture resources and slides posted with the online lecture podcasts. 
+ 
+
+Date 
+WEEK 1 June 24th 
+WEEK 2 July 1st 
+WEEK 3 July 8th 
+WEEK 4 July 15th 
+WEEK 5 July 22nd  
+WEEK 6 July 29th 
+WEEK 7 August 5th 
+
+BIOLOGY 1A03 Themes 
+Welcome to BIO 1A03 Orientation & Introduction Lecture   
+Theme 1 The Structure of the Cell   
+Theme 2 From Gene to Protein  
+TEST #1 and Theme 3 Responding to the Environment 
+Theme 4 DNA Replication & Mitosis 
+Theme 5 The Principles of Inheritance 
+TEST #2 
+
+ 
+BIOLOGY 1A03 LABS 
+Labs are scheduled on Wednesdays from 1:00 pm - 3:00 pm and 3:00 pm – 5:00 pm. Please check your Mosaic 
+schedule for your lab section and scheduled lab time. 
+   
+Biology 1A03 labs will be completed at home. The lab manual will be posted on Avenue. You will complete the labs live 
+online with your TA and students who are enrolled in your lab section. Some of the labs are virtual labs, but there are two 
+hands on labs (Labs 2 and 3) that will be completed with materials that will be provided to you in an at-home lab kit that 
+will be mailed to your summer mailing address. The hands-on labs can only be completed with your TAs supervision 
+online. Labs will also include pre-lab quizzes, online instructional videos, and sample data sets that will be used during the 
+completion of the post-lab reports. One of the laboratory exercises will require the completion of a formal lab report. All 
+pre-lab quizzes, post-lab reports, and the formal lab report will be completed individually and submitted electronically via 
+Avenue to Learn.  
+
+2 
+
+ 
+The BIO1A03 labs provide students with the opportunity to develop and practice their applied and hands-on lab skills 
+through a unique and personalized question.  This project-based lab will have students work on a single question over the 
+span of the semester.  Over the course of the semester, students will conduct experiments that allow them to develop the 
+following skills: 
+ 
+·      Obtain an introduction to microscopy and image analysis 
+·      Create biological drawings of cells with appropriate labels and scale 
+·      Understand pipetting and dilutions (with accompanying calculations) 
+·      Determine concentrations using spectrophotometry or colourimetric analysis 
+·      Understand a research question and create their own hypotheses based on the research question 
+·      Understand the process of research ethics and approval 
+·      Understanding DNA extractions and PCR reactions 
+·      Determining size of DNA fragments and make inferences of DNA copy number 
+·      Create graphs for data and carry out statistical analyses 
+
+ 
+
+Week of 
+June 22 
+
+June 29 
+July 6 
+
+July 13 
+
+July 20 
+July 27 
+
+Lab # and Topic 
+Read – “The Lab Components in Biology 1A03”. Complete WHMIS 1A00 and BIOSAFE 1BS0. 
+Lab 1 – Skills Lab: Micropipette, Microscope and Standard Curve   
+
+Canada Day – no labs 
+Lab 2A – Lab Introduction, Research Ethics, Evolution of Human Amylase Paper and unboxing of 
+lab kit 
+Lab 2B – In vitro Cheek cell staining with Foldscope kit 
+Lab 3A – Amylase Assay and Determination of “unknown” Amylase Concentration using kit 
+Lab 3B – Creating an Amylase Standard Curve 
+Lab 4 – Exploring DNA Extraction, Polymerase Chain Reaction and Gel Electrophoresis 
+Lab 5 – Evaluating Gene Duplication and Data Analysis 
+
+ 
+All Biology 1A03 students must have completed the WHMIS 1A00 & BIOSAFE 1BS0 Safety Workshops to participate in 
+the BIO1A03 at-home labs.  All students are required to provide proof of completion of WHMIS 1A00 and BIOSAFE 
+1BS0 which must be uploaded to Avenue to Learn prior to opening your Biology 1A03 laboratory kit and prior to 
+the first hands-on lab.  Prior to participating in the at-home labs, students will also be asked to complete and sign 
+an assumption of risks form. 
+
+We are only able to ship at-home lab kits to mailing addresses within Canada. If you do not have a Canadian 
+mailing address for the kit to be shipped to, please contact us at bio1a03@mcmaster.ca by June 4 to discuss 
+alternative options for the course. 
+
+EXEMPTION FROM THE LAB COMPONENT 
+Students with previous lab credit in Biology 1A03 may apply for an exemption from the lab component in Biology 1A03. 
+Note that exemptions are NOT automatic. Forms to apply for the exemption are available from the Course Coordinator, 
+Dr. Mahalingam. Forms must be submitted to Dr. Mahalingam by Monday, June 29. 
+If the exemption is not approved, students must complete ALL the Summer 2020 Biology 1A03 lab requirements.  
+ 
+REQUIRED BIOLOGY 1A03 TEXTBOOK 
+BIOLOGY HOW LIFE WORKS, 3rd Edition, by Morris, Hartl, Knoll, Lue, & Michael. 
+BIOLOGY HOW LIFE WORKS, 3rd Edition can be purchased online from the McMaster Campus Store 
+(https://campusstore.mcmaster.ca/) via one of the following purchase options: 
+ 
+Electronic purchase option 
+Launchpad and the BIOLOGY HOW LIFE WORKS, 3rd Edition textbook 
+This purchase option includes electronic access to Launchpad and the BIOLOGY HOW LIFE WORKS, 3rd Edition textbook. 
+Instructions for Launchpad registration are posted on Avenue to Learn. The BIOLOGY HOW LIFE WORKS, 3rd Edition 
+textbook is contained within Launchpad. You cannot purchase electronic access to Launchpad and BIOLOGY HOW LIFE 
+WORKS, 3rd Edition separately. 
+ 
+Softcover textbook purchase option (limited quantity, check https://campusstore.mcmaster.ca/) 
+
+ 
+
+3 
+
+ 
+This purchase option includes a softcover copy of the BIOLOGY HOW LIFE WORKS, 3rd Edition textbook, chapters 1 – 
+24 only, and electronic access to Launchpad. Electronic access to Launchpad contains electronic access to the entire 
+BIOLOGY HOW LIFE WORKS, 3rd Edition textbook (chapters 1 – 48). 
+Free shipping of this purchase option is available from The Campus Store. Enter promo code TEXTFREESHIP to obtain 
+free shipping. 
+ 
+ASSIGNED TEXTBOOK READING LIST 
+Refer to the Biology 1A03 AVENUE course website for the softcover textbook and e-book reading lists. Refer to the 
+reading list that matches the textbook option that you have purchased. 
+ 
+BIOLOGY 1A03 HOW LIFE WORKS ONLINE LAUNCHPAD 
+The BIOLOGY HOW LIFE WORKS publishers have created an interactive website called LaunchPad. LaunchPad 
+contains interactive videos, practice questions, external links, and many other additional resources. 
+LaunchPad also contains a copy of the textbook in electronic form (eBook). LaunchPad and the eBook will be used to 
+facilitate learning. 
+ 
+BIOLOGY 1A03 LABORATORY MANUAL 
+Students will be provided with a downloadable copy of the Summer 2020 Biology 1A03 Laboratory Manual on Avenue to 
+Learn. This manual will include lab learning objectives, lab instructions and Safety Data Sheets for all reagents used in the 
+course labs. Separate Word Documents will be provided to all students to facilitate completion of the informal lab reports 
+and assignments. 
+ 
+ADDITIONAL REQUIRED LAB SUPPLIES   
+At home lab kits as sent to your mailing address will include a lab coat, goggles, and gloves. Students will need to use 
+tape to label their tubes, or a permanent marker.  Students will need to ensure they have access to a reliable internet 
+connection during live lab sessions with their TA. 
+ 
+AVENUE TO LEARN ONLINE LEARNING PLATFORM 
+Note: In this course, we will be using Avenue to Learn for some assessments. Students should be aware that when they 
+access electronic components of this course, private information such as first and last names, usernames for the 
+McMaster email accounts, and program affiliation may become apparent to all other students in the same course. The 
+available information is dependent on the technology used. Continuation in this course will be deemed consent to this 
+disclosure. If you have any questions or concerns about such disclosure, please discuss this with the Course Coordinator.   
+ 
+HOW TO LOG INTO THE BIOLOGY 1A03 AVENUE SITE    
+1. Start your web browser and go to:  http://avenue.mcmaster.ca  
+ 
+2. USER ID:   
+ 
+    Type in the first part (in lower case letters) of your McMaster MUSS e-mail address (Your MAC ID).  
+     
+     For example:  if your McMaster e-mail address is janedoe@muss.cis.mcmaster.ca,  
+                            then your Avenue User ID is janedoe. 
+ 
+3. PASSWORD:  Type in your McMaster Modem / Printing / CIS Lab Access /Proxy Services password.  
+ 
+4. Then click on the Login button. 
+ 
+You will need Adobe Acrobat Reader (this is freeware) to read the Biology 1A03 pdf files.  
+Most computers have Adobe Acrobat Reader installed as standard software.  
+If your computer does not have it, you may download it from the Adobe website: 
+http://www.adobe.com/products/acrobat/readstep2.html 
+ 
+Note: In this course, we will be using Avenue for some assessments. Students should be aware that when they access 
+the electronic components of this course, private information, including first and last names, usernames for the McMaster 
+University e-mail accounts, and program affiliations may become apparent to others participating in the course. 
+Continuation in this course will be deemed as consent to this disclosure. If you have any questions or concerns about 
+such disclosure, please discuss them with the professors and course coordinator of this course. 
+
+ 
+
+4 
+
+ 
+GRADING   Final Biology 1A03 grades will be determined using the following grading scheme: 
+ 
+
+ITEM 
+
+GRADING SCHEME  
+
+PRE-LAB QUIZZES 
+Throughout the term 
+(6 quizzes x 1% each) 
+INFORMAL LABS 
+Throughout the term 
+(7 informal reports x 1 % each) 
+FORMAL LAB REPORT 
+To be announced during the term 
+(1 report) 
+
+TEST #1 – ONLINE VIA AVENUE TO LEARN 
+WEDNESDAY, JULY 15THTH, 9:00 AM 
+Coverage - Theme 1 and Theme 2 Modules,  
+Review Lectures, Applied Lectures, and Supplementary Information. 
+Format - 30 multiple choice questions worth 30 marks  
+& 15 marks worth of written answer questions 
+Duration - 90 minutes 
+TEST #2 – ONLINE VIA AVENUE TO LEARN 
+WEDNESDAY, AUGUST 5TH, 9:00 AM 
+Test #2 will evaluate content from Coverage - Theme 3, Theme 4, Theme 5 Modules,  
+Review Lectures, Applied Lectures, and Supplementary Information-. 
+Format - 40 multiple choice questions & 20 marks worth of written answer questions 
+ Duration - 2 hours 
+
+MAKE-UP TEST - ONLINE VIA AVENUE TO LEARN 
+WEDNESDAY, AUGUST 5TH, 12:00 PM. 
+
+A make-up test will be written by students who missed a Test 1 and obtained an 
+approved MSAF following the test absence. The course content coverage and format 
+of the make-up test will be the same as Test #1 on Wednesday, July 15th. 
+
+6% 
+ 
+
+7% 
+ 
+
+12 % 
+ 
+
+30% 
+
+45% 
+ 
+
+ 
+
+ 
+Final marks for the course are based on a total assessment of each student's record. It is a student's responsibility to make 
+sure that his/her marks are complete and correct. Grade adjustment techniques may be used.  However, marks will NOT 
+be  bell-curved  at  any  point  in  the  term.  The  Professor  and  Course  Coordinator  reserve  the  right  to  change  or  revise 
+information contained in this course outline. The professor and university reserve the right to modify elements of the course 
+during the term. The university may change the dates and deadlines for any  or all courses in extreme circumstances.  If 
+either  type  of  modification  becomes  necessary,  students  will  be  given  reasonable  notice  with  an  explanation  and  an 
+opportunity to comment on changes. It is the responsibility of the student to check their McMaster email and course websites 
+daily  during  the  term  and  to  note  any  changes.  Marks  will  be  calculated  according  to  the  above  grading  scheme  to  be 
+consistent with previous years. The Biology Department does not approve of altering marks arbitrarily at a student's request. 
+ 
+BIOLOGY 1A03 TEST 1 & TEST 2 
+ 
+The online Biology 1A03 Test 1 will be composed of 30 multiple choice questions (worth 30 marks) and 15 marks worth of 
+written answer questions and will be 90 minutes in duration.  
+ 
+The online Biology 1A03 Test 2 will be composed of 40 multiple choice questions and 20 marks worth of written answer 
+questions and will be 2 hours in duration. 
+ 
+Tests may include multiple choice, figures, graphs, and written factual, conceptual, and application style questions. 
+ 
+This course may use proctoring software (to be determined) during tests/exams. This software may require you to turn on 
+your video camera, present identification, monitor and record your computer activities, and lockdown your browser during 
+the exam. This software may be required to be installed before the exam begins.  If you have questions about whether 
+this software will be used, or concerns about the use of this software, please contact your Course Coordinator – Dr.Sajeni 
+Mahalingam. 
+ 
+
+ 
+
+5 
+
+ 
+BIOLOGY 1A03 POLICIES    
+1. The last day for enrollment and course changes during the Summer 2020 academic term is Monday, June 29, 2020. 
+ 
+2. It is the requirement that students complete at least 75% of the course work to obtain credit for Biology 1A03,  
+     including lab-related exercises, tests, and assignments. All students must write both Test 1 and Test 2.  
+ 
+3. In order for a student to pass the course, students must pass the lab component of the course. It is also a  
+    requirement of Biology 1A03 that students complete the majority of the lab exercises.  
+ 
+    Because this course has a compulsory lab component, it is the responsibility of the university to ensure that  
+    students have the appropriate academic and laboratory skills necessary to succeed in upper year biology  
+    courses. If a student does not complete the majority of the lab component, the university reserves the right to  
+    withhold a student’s grade until they have completed the required labs during a future semester. This policy  
+    applies even if the student has notes from their Associate Dean of Studies office excusing him or her from the  
+    missed labs, tests, or assignments.        
+
+ 
+A lab exercise that is not submitted will result in a grade of zero unless the missed student work is supported by a 
+MSAF or the student’s Associate Dean's (Studies) office. Documentation of the reason for the incomplete lab exercise 
+will be required by the Associate Dean's office. It may be possible to submit a late lab assignment. Contact the Course 
+Coordinator, Dr. Sajeni Mahalingam through email, bio1a03@mcmaster.ca to do so. 
+ 
+Biology 1A03 requires the submission of one formal lab report during the term. If a student misses any one of the lab 
+exercises, please email Dr. Sajeni Mahalingam for further directions as the student will still be required to write the 
+formal lab report at the end of the term.  
+ 
+
+    If a student is not able to complete one of the labs the student must complete the following two steps in order to prevent           
+    a zero being assigned to the missed lab assignment grade. 
+ 
+   Step 1 - The student will need to complete a MSAF (http://mcmaster.ca/msaf/) for the missed work.  
+               
+   Step 2 - Contact the Course Coordinator, Dr. Sajeni Mahalingam to ensure that MSAF confirmation email was received. 
+
+   
+
+4.  Students will be submitting their post-lab reports and their formal lab report to electronic dropboxes that will be  
+     available within the Biology 1A03 AVENUE course site. Late submissions will be penalised 10% per day. 
+ 
+5. All tests, lab reports, and assignments should be completed and submitted individually unless other instructions  
+    to work in groups are specifically defined. All reports and assignments which are submitted should be unique. It  
+    is considered academic dishonesty to submit work that was not originally yours or that has been previously  
+    submitted. All cases of academic dishonesty will be dealt with through the office of Academic Integrity at  
+    McMaster University. 
+ 
+6. Sometimes a student may encounter a technical difficulty with the quizzes. Some of the common issues are  
+    outlined (with solutions to them) in the Biology 1A03 Lab Information Document that is found on Avenue to Learn. If a               
+    student needs help with other problems, the Course Coordinator can likely help, but only if the student contacts the    
+    Course Coordinator before the quiz deadline. If the Course Coordinator does not know about the student’s technical       
+    difficulty until after the due date has passed, there is nothing that the Course Coordinator can do to help the student. The  
+    student will only be able to inform the Course Coordinator of technical difficulties during her online office hours (which do     
+    not include evenings or weekends), so please plan to complete the quizzes well in advance of the due dates.  
+ 
+7.  Any marked term work (labs, tests, etc.) may be submitted for re-grading within 5 business days of the work  
+     being returned to the student. A regrade request can be accomplished by emailing the Course Coordinator- Dr. Sajeni  
+     Mahalingham, and must be accompanied by a completed re-grade request form, which is available on the   
+     Biology 1A03 Avenue site. The reason for the regrade request must be completely justified on the form.  
+     Regrade requests made for frivolous reasons will be denied. Regrade forms and course work should be  
+     submitted to the Course Coordinator via email. 
+ 
+8.  Any term mark corrections must be made BEFORE the Biology 1A03 Test 2 is written. 
+     Contact the Course Coordinator regarding tests/assignments grades corrections. There are not alternative  
+
+ 
+
+6 
+
+ 
+      assignments that can be completed by students for the purpose of increasing their final grade. 
+  
+9.   The professor, Course Coordinator, and university reserve the right to modify elements of the course  
+      during the term. The university may change dates and deadlines for any or all courses in extreme  
+      circumstances. If either type of modification becomes necessary, reasonable notice and communication with  
+      the students will be given with explanation and the opportunity to comment on changes. It is the responsibility  
+      of the student to check their McMaster e-mail and course websites regularly (at least once per day) during  
+      the term and take note of updates or changes. 
+ 
+10. Requests for Relief for Missed Academic Term Work 
+ 
+      For absences from classes lasting up to three calendar days: 
+
+      Using the McMaster student absence form (MSAF) on-line, self-reporting tool, undergraduate 
+      students may report absences lasting up to three calendar days and may also request relief for missed 
+      academic work. The submission of medical or other types of supporting documentation is 
+      normally not required. Students may use this tool to submit a maximum of one request for relief 
+      of missed academic work per term. Students must immediately follow up with their course 
+      instructors regarding the nature of the relief. Failure to do so may negate the opportunity for 
+      relief. It is the prerogative of the instructor of the course to determine the appropriate relief for 
+      missed term work in his/her course. 
+
+     For absences from classes lasting more than three calendar days: 
+     Students who are absent more than three days cannot use the on-line, self-reporting tool to request 
+     relief. They MUST contact their Faculty Office to discuss their situation and may be required to 
+     provide appropriate supporting documentation. If warranted, students will be approved to use a 
+     discretionary version of the MSAF on-line, self-reporting tool. 
+
+     For the reporting of more than one request per term: 
+     Students who wish to submit more than one request for relief of missed academic work per term 
+     cannot use the on-line, self-reporting tool to request relief. They MUST contact their Faculty 
+     Office to discuss their situation and may be required to provide supporting documentation. If warranted,  
+     students will be approved to use a discretionary version of the MSAF on-line, self-reporting tool. 
+ 
+     For absences from classes lasting more than three calendar days or for the reporting of more than one 
+     request for relief per term:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+If  the  reason  was  medical,  the  approved  McMaster  University  Medical  Form  covering  the  relevant  dates  must  be 
+submitted. The student must be seen by a doctor at the earliest possible date, normally on or before the date of the 
+missed work and the doctor must verify the duration of the illness. Relief will not be considered for minor illnesses. If the 
+reason is non-medical, appropriate documentation with verifiable origin covering the relevant dates must be submitted, 
+normally  within  five  working  days.  In  some  circumstances,  students  may  be  advised  to  submit  a  Petition  for  Special 
+Consideration (Form A) seeking relief for missed academic work. In deciding whether or not to grant a petition, adequacy 
+of the supporting documentation, including the timing in relation to the due date of the missed work and the degree of 
+the  student's  incapacitation,  may  be  taken  into  account.  If  the  petition  is  approved  the  Faculty  Office  will  notify  the 
+instructor(s)  recommending  relief.  The  student  must  contact  the  instructor  promptly  to  discuss  the  appropriate  relief. 
+Failure to do so may negate the opportunity for relief. It is the prerogative of the instructor of the course to determine the 
+appropriate relief for missed term work in his/her course. 
+
+ 
+     The MSAF on-line, self-reporting tool cannot be used to apply for relief from any course work that is valued at   
+     greater than 25% of the final grade, or any final examination or its equivalent. See Petitions for Special   
+     Consideration in this section of the Calendar. Students should expect to have academic commitments Monday  
+     through Saturday, but not on Sunday or statutory holidays. 
+     Students who require accommodations to meet a religious obligation or to celebrate an important 
+     religious holiday should make their requests within three weeks of the start of term to the Course Coordinator. 
+      
+      There will be no discretionary approvals given by the Coordinator or the Professor. 
+ 
+
+ 
+
+ 
+7 
+
+to  Learn  course  pages  are  considered  an  extension                                                            
+
+BIOLOGY 1A03 MSAF POLICY  
+
+Result 
+
+Course component not completed (MSAF 
+submitted) 
+Lab quiz (each worth 1 % of final grade) 
+
+Informal lab report (each worth 1% of final 
+grade) 
+Formal lab report (worth 12 % of final grade) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     As a student enrolled in this course you have been granted permission to access an online learning  
+
+1% added to the value of the formal lab report, now 
+13% of final grade. 
+1% added to the value of formal lab report, now 13% 
+of final grade. 
+48 hour extension of deadline. The value of the 
+formal lab report will not be added to the value of 
+another course component.   
+Students that miss test #1 for a valid reason and 
+obtained an approved MSAF from the Office of the 
+Associate Dean will complete an online make-up test 
+on Wednesday, August 5. The course content 
+coverage and format of the online make-up test will 
+be the same as Test #1 on Wednesday, July 15th. 
+
+MSAF submitted for Test 1 (30% of final grade) 
+
+to  Learn.  Avenue 
+
+management  system,  Avenue 
+of the classroom and usage is provided as a privilege subject to the same code of conduct expected in a  lecture hall 
+(see  relevant  section  of  the  student  code  of  conduct  below).  This  privilege  allows  participation  in  course  discussion 
+forums and access to supplementary course materials. Please be advised that all areas of Avenue to Learn, including 
+discussion forums, are owned and operated by McMaster University.  
+ 
+Any content or communications deemed inappropriate by the course instructor or coordinator may be removed at their 
+discretion.  Per  the  University  Technology  Services  Code  of  Conduct,  all  members  of  the  McMaster  community  are 
+obligated to use computing resources in ways that are responsible, ethical and professional. Avenue to Learn Terms of 
+Use are available at http://avenue.mcmaster.ca.  
+ 
+Student Code of Conduct - Appendix D  
+Major Offences include, but are not limited to: (h) engaging in disruptive behaviour. Disruptive behaviour is behaviour 
+in class or out of class which involves substantial disorder and/or disrupts the operation of the University and (j) 
+engaging in verbal or non-verbal behaviour or communication toward an individual or group which is considered to be 
+intimidating, harassing and/or discriminatory. 
+
+ONLINE COURSE BEHAVIOUR 
+McMaster is committed to an inclusive and respectful community.  These principles and expectations extend to online 
+activities including electronic chat groups, video calls and other learning platforms.  If you are concerned about your virtual 
+classroom experiences, the Equity and Inclusion Office (EIO) is available to advise and assist students who may be 
+experiencing any equity, accessibility, inclusion, harassment, discrimination or sexual violence concerns.  
+ 
+You can reach the EIO at equity@mcmaster.ca. The Biology 1A03 Team thanks you in advance for joining us in ensuring 
+that our McMaster online communities are spaces where no one feels excluded and everyone is able to enjoy learning 
+together 
+https://equity.mcmaster.ca/contact-us 
+ 
+ACADEMIC INTEGRITY 
+Students are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process. 
+Academic credentials students earn are rooted in principles of honesty and academic integrity. Academic dishonesty is to 
+knowingly act or fail to act in a way that results or could result in unearned 
+academic credit or advantage. This behaviour can result in serious consequences, e.g. the grade of zero 
+on an assignment, loss of credit with a notation on the transcript (notation reads: “Grade of F assigned 
+for academic dishonesty”), and/or suspension or expulsion from the university. 
+The students are responsible to understand what constitutes academic dishonesty. For information on 
+the various types of academic dishonesty, please refer to the Academic Integrity Policy, located at 
+www.mcmaster.ca/academicintegrity. 
+
+8 
+
+ 
+
+ 
+
+ 
+ 
+The following illustrates only three forms of academic dishonesty: 
+• Plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+  obtained 
+• Improper collaboration in group work 
+• Copying or using unauthorized aids in tests and examinations 
+ 
+Any student who infringes one of these resolutions will be treated according to published policy. 
+To deter acts of academic dishonesty in Biology 1A03, there will be multiple versions of tests & final exams.  
+In addition, marked student course work will be randomly scanned and photocopied. 
+ 
+By submitting this work, a student certifies that the work represents solely her/his own independent efforts. The students 
+confirm that they are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process.  The 
+student confirms that is her/his responsibility to understand what constitutes academic dishonesty under the Academic 
+Integrity Policy.” 
+https://secretariat.mcmaster.ca/app/uploads/Academic-Integrity-Policy-1-1.pdf  
+ 
+AUTHENTICITY / PLAGIARISM DETECTION 
+Students who do not wish to submit their work through A2L and/or Turnitin.com must still submit an electronic and/or 
+hardcopy to the instructor. No penalty will be assigned to a student who does not 
+submit work to Turnitin.com or Avenue to Learn. All submitted work is subject to normal verification that standards of 
+academic integrity has been upheld (e.g. on-line search, other software, etc.). To see the Turnitin.com 
+Policy, please go to www.mcmaster.ca/academicintegrity. 
+ 
+ACADEMIC ACCOMMODATION OF STUDENTS WITH DISABILITIES 
+Students who require academic accommodation must contact Student Accessibility Services (SAS) to make 
+arrangements with a Program Coordinator.  Academic accommodations must be arranged for each term of 
+study.  Student Accessibility Services can be contacted by phone 905-525-9140 ext. 28652 or e-
+mail sas@mcmaster.ca.  For further information, consult McMaster University’s Policy for Academic Accommodation of 
+Students with Disabilities. http://www.mcmaster.ca/policy/Students-AcademicStudies/AcademicAccommodation-
+StudentsWithDisabilities.pdf 
+Students who are registered with SAS should meet with the Course Coordinator in order to discuss their academic 
+accommodations. 
+ 
+ACADEMIC ACCOMODATION FOR RELIGIOUS, INDIGENOUS, OR SPIRITUAL OBSERVANCES 
+(RISO)Students requiring academic accommodation based on religious, indigenous or spiritual observances should 
+follow the procedures set out in the RISO policy. Students requiring a RISO accommodation should submit their request 
+to their Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need for 
+accommodation or to the Registrar’s Office prior to their examinations. Students should also contact their instructors as 
+soon as possible to make alternative arrangements for classes, assignments, and tests. 
+ 
+McMASTER UNIVERSITY GRADING SCHEME 
+Grades obtained for Biology 1A03 will be converted according to the following scheme, which is the one in general use at 
+McMaster University. 
+90 - 100%  A  +, 
+A,  
+85 - 89%     
+A-, 
+80 - 84%     
+B+, 
+77 - 79%     
+B, 
+73 - 76%     
+B-, 
+70 - 72%     
+C+, 
+67 - 69%     
+C, 
+63 - 66%     
+C-, 
+60 - 62%     
+D+, 
+57 - 59%     
+D, 
+53 - 56%     
+D-, 
+50 - 52%     
+0 - 49%       
+F, 
+ 
+
+12 
+11 
+10 
+ 9 
+ 8 
+ 7 
+ 6 
+ 5 
+ 4 
+ 3 
+ 2 
+ 1 
+ 0 
+
+ 
+
+9 
+
+ 
+THE BIOLOGY ACHIEVEMENT AWARD 
+The Department of Biology recognizes the importance of superior undergraduate academic performance in Biology 1A03 
+among our students. Biology Academic Achievement Awards are conferred to Science I students, who obtain the highest 
+standings in Biology 1A03. No applications are necessary as the awards are based solely on course grades. 
+ 
+STUDY SKILLS 
+The academic transition from high school to university is often very challenging for many students. For students who wish 
+to improve their academic skills, study habits, time management, or for students who require specialized services 
+[learning challenged students and ESL (English as a second language students)], assistance is available at both the 
+Student Success Centre located in Gilmour Hall 110 https://studentsuccess.mcmaster.ca/ and the Student Accessibility 
+Services located the lower level (basement) of the McMaster University Student Centre B107 https://sas.mcmaster.ca/ 
+ 
+MISSED TEST POLICY 
+Students who miss Test #1 for a valid reason and obtained an approved MSAF from the Office of the Associate Dean will 
+complete an online make-up test on Wednesday, August 5th. 
+ 
+Students who miss Test #2 for a valid reason may apply to the Office of their Associate Dean of their respective faculty for 
+permission to write a deferred make-up test during the October Deferred Final Examination period. The student must 
+submit a completed McMaster University Medical Certificate and submit a completed Request for Deferred Examination 
+(Form B) to the Office of the Associate Dean of their respective faculty within one week of Test #2. 
+ 
+Students that missed Test #1 for a valid reason and obtained an approved MSAF from the Office of the Associate Dean 
+and then missed test #2 and make-up test #1 on Wednesday, August 5th , may apply to the Office of their Associate Dean 
+of their respective faculty for permission to write deferred make-up tests during the October Deferred Final Examination 
+period. The student must submit a completed McMaster University Medical Certificate and submit a completed Request 
+for Deferred Examination (Form B) to the Office of the Associate Dean of their respective faculty within one week of test 
+#2. 
+ 
+EXTREME CIRCUMSTANCES 
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g. severe weather, labour disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue and/or McMaster email. 
+ 
+Copyright 2020 © L. Kajiura, S. Mahalingam , R. DaSilva, A. Tracey, T. Rerecich  Summer 2020 Biology 1A03 Cellular & Molecular Biology, Course 
+Outline, Department of Biology, McMaster University 
+ 
+Updated May 14th  2020  
+
+ 
+
+10 
+
+

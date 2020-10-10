@@ -1,0 +1,392 @@
+ 
+
+Biology 3EI3 
+Ecological Indicators 
+Winter 2021 Course Outline 
+ 
+
+Course Details 
+
+ 
+Instructor:  Dr. Pat Chow-Fraser,  chowfras@mcmaster.ca   
+ 
+Course Coordinator: Mihaela Georgescu,  mgeorg@mcmaster.ca 
+  
+Lab/TA’s: Name(s) TBD 
+ 
+Appointments:  Please send an email directly to Dr. Chow-Fraser or your TA for one-on-one 
+appointments. 
+  
+Lectures: Thursdays 10:30-12:20 , Location To Be Determined  
+ 
+Lab Modules:  Tuesdays 14:30-17:20 in BSB 121 or LSB 107 
+
+Course Description 
+
+Students learn how to assess the health of Great Lakes ecosystems, including wetlands, woodlots, and 
+streams using established ecological indicators. 
+One 2-h lectures, one lab (three hours); one term 
+Prerequisite (s):  BIOLOGY 2F03 or ISCI 2A18 
+ 
+Class and lab format: 
+All class presentations during scheduled lectures are posted on Avenue prior to the start of in-person 
+classes. Labs will take place weekly in either BSB 121 or in LSB 107 and student attendance is 
+mandatory.  Lab instructions and materials required for exercises will be posted on Avenue prior to the 
+beginning of each lab. 
+ 
+
+Course Objectives 
+
+By the end of this course students will be able to: 
+
+•  Understand the derivation and use of a variety of ecological indicators used commonly in 
+
+freshwater ecosystems 
+
+•  Know how to use these indicators to assess the health status of lakes, wetlands and streams 
+•  Know how to use QGIS to measure basic morphometric indices and to determine the effects of 
+
+land uses on downstream water quality 
+
+•  Know how to conduct basic statistical tests and interpret results for scientific presentations 
+•  Apply what they have learned to a novel site (lake, wetland or stream), assess the health status 
+
+of the ecosystem and make a formal presentation of their findings to the class 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+Please note that the topics for the course is tentative and may change to accommodate cancellations of 
+classes or labs due to inclement weather and/or other unanticipated events. Students will be notified on 
+Avenue if any portion of the grade assessment is affected by such unplanned disruptions and how the new 
+marking scheme will be altered. 
+
+Course Schedule 
+
+ 
+
+To be posted 
+ 
+IMPORTANT NOTE 
+The instructor and university reserve the right to modify elements of the course during the term. The university 
+may change the dates and deadlines for any or all courses in extreme circumstances. If any modification becomes 
+necessary, reasonable notice and communication with the students will be given with explanation and the 
+opportunity to comment on changes. It is the responsibility of the student to check their McMaster email and 
+course websites weekly during the term and to note any changes.  Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or McMaster 
+email. 
+
+Course Materials 
+
+Although there is no required textbook for this course, students are required to use QGIS software (free 
+open online software), Kritik software (available at $20 for the term) and SAS JMP software (1-month 
+trial; $40 for 6-month license).  Students must also download slide presentations and other written or 
+audio-visual resources from Avenue for each class or lab. 
+ 
+ 
+
+Course Evaluation 
+
+There will be 1 midterm exam (25 marks) and a lab practical exam (15 marks) on dates to be 
+determined.  There is no final exam. 
+ 
+
+Lab assignments, quizzes and peer evaluation  
+Midterm Exam  
+Final Project Presentation includes 5% for peer evaluations 
+Final Lab Practical Exam  
+
+35.0% 
+25.0% 
+25.0% 
+15.0% 
+                         100.0% 
+
+Total 
+
+ 
+Specific accommodation for missed components listed above  
+ 
+General policy:   
+•  Students in this course are required to attend all weekly labs.  The due date for assignments will be 
+
+specified in class presentations and the course outline.  Extensions for any assignment or activity may 
+be given and will be posted on Avenue.  Even if a student does not attend a particular lab, the 
+assignments associated with labs must be completed and submitted by the due date associated 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+with the lab. Late penalties will be assessed as follows:  minus 10% within 24 h, minus 25% within 48 
+h. After 48 h, the assignment will receive a grade of zero. 
+
+•  Students who miss a scheduled lab must submit an McMaster Student Absence Form (MSAF; see 
+below) to the Course Professor via email.  There is no replacement lab.  Students must arrange to 
+with the Professor or TA to catch up on what has been missed.  With a valid MSAF, marks for missed 
+in-lab quizzes will be put towards the mid-term exam (if the missed component occurs prior to the 
+mid-term) or to the lab practical exam (if the missed component occurs after the mid-term).   
+•  NOTE:  A unique Dropbox is created for each assignment. It is the responsibility of all students to 
+know the correct Dropbox for each assignment.  If students have questions, they should ask the 
+Professor or Teaching Assistant.  Assignments that are submitted to the wrong Dropbox will not be 
+graded and will be given a grade of zero.  Students who find that they have made a mistake may 
+submit the assignment again to the correct Dropbox. As long as the assignment is submitted by the 
+due date/time, it will be graded without penalty. 
+
+•  With a valid MSAF, students who misses the scheduled mid-term exam will be given an opportunity 
+
+to write it at a later date. With a valid MSAF, students who misses the lab practical exam may take an 
+oral examination with the Professor and TA as soon as possible after the lab practical.   
+
+•  To receive a passing grade for the course, students must take both the mid-term and the lab practical 
+
+exam, attend a minimum of 7 labs and submit all assignments.  
+
+ 
+
+Requests for Relief for Missed Academic Term Work 
+
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other reasons, 
+students should review and follow the Academic Regulation in the Undergraduate Calendar “Requests 
+for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+ 
+
+Academic Integrity 
+
+As a McMaster student, you are expected to exhibit honesty and ethical behaviour in all aspects of the 
+learning process.  The academic credentials that you earn are rooted in the principles of honesty and 
+academic integrity. 
+  
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in unearned 
+academic credit or advantage.  This behaviour can result in serious consequences, (e.g., the grade of 
+zero on an assignment, loss of credit with a notation on the transcript which reads: “Grade of F assigned 
+for academic dishonesty”) and/or suspension of expulsion from the university). 
+ 
+It is your responsibility to understand what constitutes academic dishonesty. For information on the 
+various types of academic dishonesty please refer to the Academic Integrity Policy.  
+ 
+Some helpful information can be found here  
+ 
+The following illustrates only three forms of academic dishonesty: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+1.  Plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+
+obtained. 
+Improper collaboration in group work. 
+
+2. 
+3.  Copying or using unauthorized aids in tests and examinations 
+
+  
+Students who have access to authorized recorded lectures in a course may use these recordings only 
+for personal or group study and should not reproduce, share or upload the recording to any publicly 
+accessible web environment.  Similarly, notes, slides, evaluations and tests are for personal use and 
+should not be shared with others outside of a course. 
+ 
+Additional information: McMaster University Policies and Guidelines for Students 
+
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process. 
+Academic credentials you earn are rooted in principles of honesty and academic integrity. It is your 
+responsibility to understand what constitutes academic dishonesty. 
+
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious consequences, e.g. the 
+grade of zero on an assignment, loss of credit with a notation on the transcript (notation reads: 
+“Grade of F assigned for academic dishonesty”), and/or suspension or expulsion from the university. 
+For information on the various types of academic dishonesty please refer to the Academic Integrity 
+Policy, located at https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+
+The following illustrates only three forms of academic dishonesty: 
+
+●  plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+
+obtained. 
+improper collaboration in group work. 
+
+● 
+●  copying or using unauthorized aids in tests and examinations. 
+
+ 
+
+Authenticity/Plagiarism Detection 
+
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and ownership of 
+student submitted work. For courses using such software, students will be expected to submit their 
+work electronically either directly to Turnitin.com or via an online learning platform (e.g. Avenue to 
+Learn, etc.) using plagiarism detection (a service supported by Turnitin.com) so it can be checked for 
+academic dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection software must 
+inform the Instructor before the assignment is due. No penalty will be assigned to a student who does 
+not submit work to the plagiarism detection software. All submitted work is subject to normal 
+verification that standards of academic integrity have been upheld (e.g., on-line search, other 
+software, etc.). For more details about McMaster’s use of Turnitin.com please go to 
+www.mcmaster.ca/academicintegrity. 
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+ 
+
+ 
+
+Courses with an On-line Element 
+
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn, LearnLink, web pages, capa, 
+Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, when they 
+access the electronic components of a course using these elements, private information such as first and 
+last names, user names for the McMaster e-mail accounts, and program affiliation may become 
+apparent to all other students in the same course. The available information is dependent on the 
+technology used. Continuation in a course that uses on-line elements will be deemed consent to this 
+disclosure. If you have any questions or concerns about such disclosure please discuss this with the 
+course instructor. 
+ 
+
+Online Proctoring 
+
+Some courses may use online proctoring software for tests and exams. This software may require 
+students to turn on their video camera, present identification, monitor and record their computer 
+activities, and/or lock/restrict their browser or other applications/software during tests or exams. This 
+software may be required to be installed before the test/exam begins. 
+ 
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, 
+respectful and dignified interactions within all of our living, learning and working communities. These 
+expectations are described in the Code of Student Rights & Responsibilities (the “Code”). All students 
+share the responsibility of maintaining a positive environment for the academic and personal growth 
+of all McMaster community members, whether in person or online. 
+
+Students must be mindful of their interactions online, as the Code remains in effect in virtual learning 
+environments. The Code applies to any interactions that adversely affect, disrupt, or interfere with 
+reasonable participation in University activities. Student disruptions or behaviours that interfere with 
+university functions on online platforms (e.g. use of Avenue 2 Learn, WebEx, Echo360, Microsoft Teams 
+or Zoom for delivery), will be taken very seriously and will be investigated. Outcomes may include 
+restriction or removal of the involved students’ access to these platforms. 
+ 
+
+Academic Accommodation of Students with Disabilities 
+
+Students with disabilities who require academic accommodation must contact Student Accessibility 
+Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program 
+Coordinator. For further information, consult McMaster University’s Academic Accommodation of 
+Students with Disabilities policy. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+Students requiring academic accommodation based on religious, indigenous or spiritual observances 
+should follow the procedures set out in the RISO policy. Students should submit their request to their 
+Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need 
+for accommodation or to the Registrar's Office prior to their examinations. Students should also contact 
+their instructors as soon as possible to make alternative arrangements for classes, assignments, and 
+tests. 
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course material 
+provided by an instructor include copyright protected works. The Copyright Act and copyright law 
+protect every original literary, dramatic, musical and artistic work, including lectures by University 
+instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by a 
+student for the purpose of personal study. Students should be aware that their voice and/or image may 
+be recorded by others during the class. Please speak with the instructor if this is a concern for you. 
+ 
+
+Extreme Circumstances 
+
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or 
+McMaster email. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+

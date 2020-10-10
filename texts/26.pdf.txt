@@ -1,0 +1,493 @@
+ 
+
+BIO3PG3 
+Population Genetics 
+Winter 2021 Course Outline 
+ 
+
+Course Details 
+
+ 
+Instructor: Dr. Ian Dworkin (dworkin@mcmaster.ca) 
+ 
+Office hours:  By appointment and we will set aside 1 hour a week (time TBD) where I will be in 
+my office or online and able to meet. 
+   
+Lab/TA’s: There will be an in person/synchronous lab/tutorial.   
+
+Teaching Assistant TBD. 
+  
+
+Lectures:  Live and in person (hopefully), Tuesday and Thursday 2:30 – 3:20. Location to be 
+Determined. If necessary these will be done online via echo360 or Microsoft Teams (we will 
+only use one platform, but we are figuring out which would be best). Combination of lectures 
+and small group activities. If necessary lectures will also have a video (asynchronous) 
+component some weeks. 
+ 
+Lab/Tutorial:  Monday 12:30 – 2:20 or Thursday 11:30 – 1:20. Room TBD. Will be in person, but 
+if necessary will be done online and Live via echo360 or Microsoft Teams (synchronous) 
+although I may make short videos for viewing at your pleasure and to aid in helping you with 
+using R. 
+ 
+Materials for the class will all be posted to the Course website on Avenue to Learn. Link to 
+follow.  
+
+Course Description 
+
+ 
+
+“Nothing in Biology Makes Sense Except in the Light of Evolution” 
+
+Theodosius Dobzhansky, 1973 
+ 
+ 
+
+Michael Lynch, (Sometime in the 2000’s) 
+ 
+
+“Nothing in evolutionary biology makes sense except in the light of population genetics” 
+
+Why do human (or any) populations have disease causing mutations segregating? What types of 
+genetic effects contribute to evolutionary adaptations? Why are certain populations genetically 
+more closely related to one another?  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+All of these questions can be addressed based using concepts that integrates evolutionary biology 
+with genetics (and genomics). This course will examine the conceptual foundations of 
+evolutionary theory from a genetics perspective, which form the principles of population and 
+quantitative genetics. Examples to elucidate the material will be drawn from studies from 
+humans and organisms (animals, plants, bacteria and yeast, maybe some viruses if it does not 
+feel like it hits too close to home). While population genetics generally draws heavily from 
+mathematical approaches, this course will also utilize computer simulations and empirical 
+examples to help students develop a deeper understanding of the material. 
+ 
+
+•  Calendar description: Conceptual foundations of evolutionary theory and principles of 
+
+population genetics. Three lectures; or two lectures, one tutorial; one term. 
+ 
+
+•  Prerequisite(s): BIOLOGY 3FF3 and registration in Level III or above of any Honours 
+
+program 
+ 
+
+short pre-recorded videos 
+
+●  Course will be expected to be in person. If not, a combination of live video sessions and 
+
+○ 
+
+○ 
+
+If online, all class meetings will be recorded and posted with closed captions, and 
+pre-recorded lectures will be posted with closed captions.  
+If you do not want to be visible during recordings, it is fine to keep your cameras 
+off, but otherwise we would like to see you!  
+ 
+
+●  Changes to this outline: The instructor reserves the right to change the means by which 
+our course objectives are to be achieved, but this will not occur either precipitously or 
+without reasonable notice to the students enrolled in the course. Such changes could 
+result, for example, from new ideas emerging as the course develops and/or from 
+particular arrangements discussed between instructor and students. 
+
+Course Learning Objectives 
+
+By the end of this course you should be able to: 
+
+•  Demonstrate a fundamental understanding of evolutionary theory from a genetics 
+
+perspective. 
+
+•  Explain patterns of mutational effects (distribution of effects and allele frequencies) for 
+
+genetically influenced diseases and other traits. 
+
+•  Understand how various evolutionary forces influence allele frequencies in populations. 
+•  Demonstrate basic facility and comprehension of the R programming language. 
+•  Demonstrate basic facility in simple computer simulations of evolutionary processes. 
+•  Be able to predict when a population will (or will not) respond to selective pressures.  
+
+Course Schedule (tentative) 
+
+ 
+ Please note: I may re-organize how this material is taught to be more consistent with a new 
+textbook. Largely the same material will be taught, but in a different order that presented 
+below. However this allows you to see what topics are being covered. 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+Week 
+Week 1 
+(Starting 
+January 
+6th, 
+2021)  
+Week 2  Variation in populations (how to measure variation at the molecular 
+
+Subject 
+Introduction: How is SARS-Cov2 evolving?  
+Variation in Populations (different types of genetic polymorphism, 
+quantitative traits) 
+Tutorial: Getting set up with R, and introduction to programming. 
+Maybe some Hardy Weinberg Equilibrium review 
+
+level) 
+Adaptation and the evolution of Mean Fitness 
+Tutorial: Writing functions in R, using R to estimate variability. 
+
+Week 3  Genomic Frequencies of alleles and haplotypes 
+
+Natural selection from a population genetic perspective 
+Tutorial: Measuring variation in DNA sequences (TBD). What can DNA 
+sequences tell us about evolution? 
+
+Week 4  Natural selection from a population genetic perspective II 
+Tutorial: Natural selection in ideal populations 
+
+Week 5    Finite populations, Genetic Drift and its influence on populations 
+
+Tutorial: Drift and selection in finite populations, mutation-selection 
+balance. 
+
+Week 6  Mutation and Introduction to the coalescent  
+
+Midterm examination (To be confirmed) 
+
+Week 7    mid-term recess ( February 15th – 21st ) 
+Week 8 
+
+Introduction to Molecular Population Genetics 
+Tutorial: Introduction to the coalescent and molecular population 
+genetics 
+A coalescent view of neutral evolutionary forces 
+Tutorial:  Linkage disequilibrium, tests for recombination, estimators of 
+theta and non-neutral evolutionary change. 
+
+Week 9 
+  
+
+Week 10  Population history, recombination and linkage disequilibrium  
+
+Tutorial: How to study the history of human populations 
+
+Week 11   Natural selection and the coalescent 
+
+Tutorial: Estimators of theta and natural selection 
+
+Week 12   Gene Flow and Introduction to Quantitative Genetics 
+
+Tutorial: Gene Flow, Fst (TBD) 
+
+Week 13   Quantitative Genetics, population genetics and mapping of complex 
+
+TBD 
+
+disease 
+Predicting short term evolution (multivariate breeders eq’n) 
+Tutorial: TBD  
+The interplay of Sexual selection and natural selection,  
+sexual conflict, sex-biased gene expression and sexual dimorphism 
+Tutorial - Review 
+
+Note: Please bring your laptop to tutorials and lectures. 
+Notable dates: Mid-term recess February 15th – 21st.  Classes end: April 9th. 
+ 
+ 
+
+3 
+
+ 
+
+IMPORTANT  NOTE:  The  instructor  and  university  reserve  the  right  to  modify  elements  of  the  course 
+during the term. The university may change the dates and deadlines for any or all courses in extreme 
+circumstances. If any modification becomes necessary, reasonable notice and communication with the 
+students  will  be  given  with  explanation  and  the  opportunity  to  comment  on  changes.  It  is  the 
+responsibility of the student to check their McMaster email and course websites weekly during the term 
+and  to  note  any  changes.   Changes  will  be  communicated  through  regular  McMaster  communication 
+channels, such as McMaster Daily News, Avenue to Learn and/or McMaster email. 
+
+Course Materials 
+
+Primary Text: A primer of Molecular Population Genetics. Author: Asher Cutter. Publisher: 
+Oxford University Press. 2019. ISBN: 9780198838951 
+ 
+I will also be providing some additional readings for topics not covered in the text (it is a 
+purposefully short and focused book). I will also be providing some additional optional readings. 
+reading materials. These will be made available on A2L. 
+
+Course Evaluation 
+
+Here are the default breakdowns for assessment (flexible assessment in parenthesis) 
+    
+ Problem Sets:  40% (20% - 60%) 
+Mid Term Examination : 30% (20% - 40%). Note! MSAF Cannot be used, but an alternate date 
+will be provided as necessary. 
+ Final examination: 30% (20% - 40%) 
+ 
+Flexible assessment: If an individual student prefers, they may during the first week of 
+instruction work with the instructor to modify the default grading scheme.  The constraints that 
+apply are 1) The same assessments will be used (Class Problem sets, Mid Term Examination, 
+Final examination). That each of the assessments needs to be valued (in 5% increments). We 
+will discuss this further during the first class. It should be noted that the same expectations are 
+required regardless of how you choose to modify your individual marking scheme. All that will 
+change is what percentage of your final grade it counts toward. Once the grading scheme has 
+been mutually agreed upon by each student and the instructor (we will jointly sign this 
+agreement), it cannot be changed later in the course. Please note that if you make your mid-
+term worth less than 25%, it is still officially worth 25% in the syllabus so MSAF cannot be used. 
+ 
+Details on Course Assessment: 
+Class participation: This is a 300 level class, and as such you will be expected to participate and 
+discuss the material in the classroom at a fairly sophisticated level.  Among the activities that 
+you will be assessed on is your participation in group discussions and problems posed in the 
+class. This includes both asking and answering questions. It is important to be an active and 
+vocal participant in both small group and whole class activities. However, be aware that 
+dominating class time to the exclusion of other participants could have a negative influence 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+on your participation grade (the instructor will speak with the individual first in case they are 
+unaware of their effect on the rest of the class). While critical and skeptical discussion is an 
+essential part of the process, it is expected that you will keep all discourse polite, even when 
+expressing your disagreement with your peers or the instructor. 
+ 
+Problem Sets: These will be (approximately) fortnightly take home (or in class) problem sets, 
+focusing on both using R for population genetics and on core concepts in population and 
+quantitative genetics.   
+ 
+Mid Term examination: This will be an examination that will cover all of the material discussed 
+in the class prior to the mid-term break. This will be in the form of short questions and 
+problems. 
+ 
+Final exam: As much of the material in this course builds on the previous material that has been 
+discussed, this can be considered a comprehensive examination. 
+   
+
+Academic Integrity 
+
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning 
+process. Academic credentials you earn are rooted in principles of honesty and academic 
+integrity. It is your responsibility to understand what constitutes academic dishonesty. 
+
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious consequences, 
+e.g. the grade of zero on an assignment, loss of credit with a notation on the transcript 
+(notation reads: “Grade of F assigned for academic dishonesty”), and/or suspension or 
+expulsion from the university. For information on the various types of academic dishonesty 
+please refer to the Academic Integrity Policy, located at 
+https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+
+The following illustrates only three forms of academic dishonesty: 
+
+●  plagiarism, e.g. the submission of work that is not one’s own or for which other credit 
+
+has been obtained. 
+
+● 
+
+improper collaboration in group work. 
+
+●  copying or using unauthorized aids in tests and examinations. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+Authenticity/Plagiarism Detection 
+
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and 
+ownership of student submitted work. For courses using such software, students will be 
+expected to submit their work electronically either directly to Turnitin.com or via an online 
+learning platform (e.g. Avenue to Learn, etc.) using plagiarism detection (a service supported 
+by Turnitin.com) so it can be checked for academic dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection 
+software must inform the Instructor before the assignment is due. No penalty will be assigned 
+to a student who does not submit work to the plagiarism detection software. All submitted 
+work is subject to normal verification that standards of academic integrity have been upheld 
+(e.g., on-line search, other software, etc.). For more details about McMaster’s use of 
+Turnitin.com please go to www.mcmaster.ca/academicintegrity. 
+
+Courses with an On-line Element 
+
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn, LearnLink, web pages, 
+capa, Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, 
+when they access the electronic components of a course using these elements, private 
+information such as first and last names, user names for the McMaster e-mail accounts, and 
+program affiliation may become apparent to all other students in the same course. The 
+available information is dependent on the technology used. Continuation in a course that uses 
+on-line elements will be deemed consent to this disclosure. If you have any questions or 
+concerns about such disclosure please discuss this with the course instructor. 
+ 
+
+Online Proctoring 
+
+Some courses may use online proctoring software for tests and exams. This software may 
+require students to turn on their video camera, present identification, monitor and record their 
+computer activities, and/or lock/restrict their browser or other applications/software during 
+tests or exams. This software may be required to be installed before the test/exam begins. 
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to 
+demonstrate, respectful and dignified interactions within all of our living, learning and 
+working communities. These expectations are described in the Code of Student Rights & 
+Responsibilities (the “Code”). All students share the responsibility of maintaining a positive 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+environment for the academic and personal growth of all McMaster community members, 
+whether in person or online. 
+
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in effect 
+in virtual learning environments. The Code applies to any interactions that adversely affect, 
+disrupt, or interfere with reasonable participation in University activities. Student disruptions or 
+behaviours that interfere with university functions on online platforms (e.g. use of Avenue 2 
+Learn, WebEx, Echo360, Microsoft Teams or Zoom for delivery), will be taken very seriously and 
+will be investigated. Outcomes may include restriction or removal of the involved students’ 
+access to these platforms. 
+ 
+
+Academic Accommodation of Students with Disabilities 
+
+Students with disabilities who require academic accommodation must contact Student 
+Accessibility Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make 
+arrangements with a Program Coordinator. For further information, consult McMaster 
+University’s Academic Accommodation of Students with Disabilities policy. 
+ 
+ 
+
+Requests for Relief for Missed Academic Term Work 
+
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other 
+reasons, students should review and follow the Academic Regulation in the Undergraduate 
+Calendar “Requests for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+ 
+
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+Students requiring academic accommodation based on religious, indigenous or spiritual 
+observances should follow the procedures set out in the RISO policy. Students should submit 
+their request to their Faculty Office normally within 10 working days of the beginning of term 
+in which they anticipate a need for accommodation or to the Registrar's Office prior to their 
+examinations. Students should also contact their instructors as soon as possible to make 
+alternative arrangements for classes, assignments, and tests. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course 
+material provided by an instructor include copyright protected works. The Copyright Act 
+and copyright law protect every original literary, dramatic, musical and artistic work, 
+including lectures by University instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by 
+a student for the purpose of personal study. Students should be aware that their voice and/or 
+image may be recorded by others during the class. Please speak with the instructor if this is a 
+concern for you. 
+ 
+
+Extreme Circumstances 
+
+The University reserves the right to change the dates and deadlines for any or all courses in 
+extreme circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be 
+communicated through regular McMaster communication channels, such as McMaster Daily 
+News, Avenue to Learn and/or McMaster email. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+

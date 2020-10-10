@@ -1,0 +1,607 @@
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOLECULAR BIOLOGY 3M03 
+Fundamental Concepts of Development 
+Winter 2021 
+
+ 
+
+Course Details 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LSB 429 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Instructor: 
+Dr. Roger Jacobs 
+
+ 
+Undergraduate Coordinator: 
+Dr. Mihaela Georgescu 
+ 
+Lab Demonstrators:  
+TBA 
+
+ 
+
+ 
+
+LSB 119 
+
+mgeorg@mcmaster.ca 
+
+jacobsr@mcmaster.ca 
+Office hours: TBA, - in person or Microsoft Teams 
+
+Lectures: 
+Lab: 
+ 
+Text:    
+
+ 
+ 
+
+ 
+ 
+
+Mon and Wed 10:30, Location To Be Determined 
+Tues and Wed 2:30.  LSB 
+Developmental Biology  - Barresi & Gilbert 11th or 12th  Edition 
+Shared or Electronic copy is sufficient. Text is on Reserve at Thode 
+
+Laboratory Manual 
+Laboratory handouts will be available on Avenue to Learn. 
+
+Course Description 
+
+Advances in developmental biology using genetic and molecular approaches will be discussed in 
+the context of classical experiments. Various model systems (mice, fruitflies, worms) are examined 
+and related to human development. 
+ 
+Two lectures, one tutorial or lab (three hours); one term 
+Prerequisite(s): BIOLOGY 2B03 (or ISCI 2A18 A/B), BIOLOGY 2C03 or MOLBIOL 2C03 . 
+Live lectures complemented with recorded lectures with closed captions. Tests scheduled during 
+class time.  
+ 
+Participation in live labs is required. 
+ 
+
+Outline: 
+This course explores fundamental mechanisms underlying development, from structural 
+and molecular genetic perspectives. Lecture material will be complemented by 
+laboratory demonstrations, research papers and videos posted to Avenue. 
+The first part of the course will focus on early development in classical model systems (sea urchin 
+and fly) will begin by examining how pattern and identity is established in early embryogenesis by 
+discussing both classical and contemporary experiments. The second part of the course will 
+examine specific processes underlying cellular diversity and morphogenesis relevant to vertebrate 
+and human development. The third and final part of the course will focus on current research 
+
+ 
+
+ 
+
+topics and trends, such a role of environment in shaping developmental processes, and how 
+developmental concepts are being applied to a wider range of issues in human health. The 
+laboratory modules will employ model organisms: C. elegans, Sea Urchin, Chick embryo, Zebrafish 
+and Drosophila. We will explore how cells acquire their fate, and build the intricate morphology of 
+the maturing embryo and the adult form. 
+
+Course Objectives 
+
+By the end of this course students will be able to: 
+
+• 
+
+• 
+
+Interpret or propose the design of experiments in developmental biology that uncover the 
+physical and molecular mechanisms of development 
+
+•  Relate the principles of development revealed by model systems to issues of human 
+
+development 
+Interpret research data and explain research outcomes to suggest generalisable principles 
+or mechanisms of development 
+
+•  Analyse and communicate primary research literature in development. 
+•  Explain the mechanisms of major developmental events, such as fertilisation, induction, 
+
+gastrulation, neurulation, pattern formation and organogenesis. 
+
+Course Evaluation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10% 
+25% 
+25% 
+20% 
+20% - Laboratory Component 
+
+2 Class Assignments  
+Feb 5, in class 
+Midterm I 
+March 18, in class 
+Midterm II 
+Final Exam (During final exam period) 
+
+Experimental design: 3% 
+Lab assignment: Chick 1% 
+Lab assignment: Drosophila Lab 5% 
+Lab assignment: Zebrafish 2% 
+Lab Report: C elegans 8% 
+In Lab Participation 1% 
+
+ 
+This course may use proctoring software (TBD) for tests/exams. This software may require you to turn on your video 
+camera, present identification, monitor and record your computer activities, and lockdown your browser during the 
+exam. This software may be required to be installed before the exam begins.  If you have questions about whether 
+this software will be used, or concerns about the use of this software, please contact your instructor. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Course Schedule 
+
+Part I: The Developmental Biology Landscape 
+ 
+1. Examination of early events underlying the development of an organism from a single cell 
+2. Compare and contrast common model organisms in developmental biology 
+3. Explore cell lineage, differentiation, specification vs. commitment and determination, lineage 
+dependent mosaic development vs. regulatory development, morphogens 
+ 
+
+Reading (12thEd) 
+
+ 
+
+ 
+
+Lecture  Date 
+1 
+2 
+3 
+3 
+4 
+
+ 
+ 
+ 
+ 
+ 
+
+5 
+6 
+7 
+8 
+9 
+
+ 
+ 
+ 
+ 
+ 
+
+Lab 
+No Lab 
+
+ 
+ 
+
+ 
+
+ 
+
+Intro to lab 
+
+Experimental 
+Design 
+Sea Urchin 
+
+No Lab 
+
+Lecture 
+Introduction, Gametes 
+Fertilisation, Early embryogenesis- Urchins 
+Sea Urchin gastrulation 
+Early Embryogenesis- Amphibians 
+Early Embryogenesis- Gastrulation, Organiser 
+Early Embryogenesis – Axis formation-Flies to 
+Humans 
+Early Embryogenesis –Humans 
+Neurulation- Mammals 
+Somites and somitogenesis 
+M I D T E R M in Class 
+
+ 
+Part II: Organogenesis 
+ 
+1. More about cell type specification and tissue morphogenesis underlying organ development 
+2. Concepts of differentiation, specification vs. commitment and determination, lineage dependent 
+mosaic development vs. regulatory development 
+ 
+3. Review of modern developmental biology research underlying each topic 
+ 
+
+Reading (12thEd) 
+
+ 
+
+ 
+ 
+ 
+ 
+
+Lecture  Date 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Lab 
+Chick 
+ 
+
+Lecture 
+Limb development 
+Limb development 
+Neural Development 
+Reading 
+Week 
+Drosophila  Neurotrophic factors 
+
+Myogenesis 
+Drosophila  Myogenesis 
+
+Zebrafish 
+
+Stem cells and Regeneration 
+Gland Morphogenesis 
+ Heart Development 
+M I D T E R M in Class 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+Part III: Special Topics in Developmental Biology 
+ 
+
+Impact of developmental biology insights on medicine and policy 
+Lecture 
+
+1.  Exploration of modern questions in developmental biology 
+2.  Critical evaluation of research literature 
+3. 
+Lecture 
+1 
+2 
+3 
+4 
+  
+ 
+IMPORTANT NOTE 
+* 
+
+Lab 
+C. elegans  Evolutionary developmental biology 
+C. elegans  Teratology 
+ 
+ 
+ 
+
+Reading (12thEd) 
+ 
+ 
+Congenital disease, ethics and policy   
+ 
+Review Session 
+ 
+Registrar Scheduled Final Exam 
+
+Date 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+The instructor and university reserve the right to modify elements of the course during the term. The university may 
+change the dates and deadlines for any or all courses in extreme circumstances. If any modification becomes necessary, 
+reasonable notice and communication with the students will be given with explanation and the opportunity to comment 
+on changes. It is the responsibility of the student to check their McMaster email and course websites weekly during the 
+term and to note any changes.  Changes will be communicated through regular McMaster communication channels, 
+such as McMaster Daily News, Avenue to Learn and/or McMaster email. 
+
+ 
+** Due to the nature of labs involving live animals, sometimes the laboratory schedule does not go as 
+planned. We may have to try some experiments and demonstrations again during the “no lab” weeks. We 
+will notify you if that is the case. 
+ 
+ 
+Policy on missed work, extensions, late penalties and missed exams: 
+If you are absent from the university for a minor medical reason, lasting fewer than 3 days, you 
+may report your absence, once per term, without documentation, using the McMaster Student 
+Absence Form. Absences for a longer duration or for other reasons must be reported to your 
+Faculty/Program office, with documentation, and relief from term work may not necessarily be 
+granted. When using the MSAF, report your absence to Mihaela Georgescu. Immediately after 
+using the online tool, students MUST contact Mihaela Georgescu (mgeorg@mcmaster.ca) 
+regarding the nature of the relief. Failure to do so may negate the opportunity for relief. It is 
+the prerogative of the instructor of the course to determine the appropriate relief for missed 
+term work. 
+  
+Normally, a missed lab will be completed with your lab -mate’s data and both labs and 
+assignments may be given an extension for submission. Please note that the MSAF may not be 
+used for term work worth 25% or more, nor can it be used for the final examination. 
+
+Academic Integrity 
+
+ 
+
+ 
+
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning 
+process. Academic credentials you earn are rooted in principles of honesty and academic 
+integrity. It is your responsibility to understand what constitutes academic dishonesty. 
+
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious consequences, 
+e.g. the grade of zero on an assignment, loss of credit with a notation on the transcript 
+
+ 
+
+ 
+
+(notation reads: “Grade of F assigned for academic dishonesty”), and/or suspension or 
+expulsion from the university. For information on the various types of academic dishonesty 
+please refer to the Academic Integrity Policy, located at 
+https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+
+The following illustrates only three forms of academic dishonesty: 
+
+●  plagiarism, e.g. the submission of work that is not one’s own or for which other credit 
+
+has been obtained. 
+
+● 
+
+improper collaboration in group work. 
+
+●  copying or using unauthorized aids in tests and examinations. 
+
+Authenticity/Plagiarism Detection 
+
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and 
+ownership of student submitted work. For courses using such software, students will be 
+expected to submit their work electronically either directly to Turnitin.com or via an online 
+learning platform (e.g. Avenue to Learn, etc.) using plagiarism detection (a service supported 
+by Turnitin.com) so it can be checked for academic dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection 
+software must inform the Instructor before the assignment is due. No penalty will be assigned 
+to a student who does not submit work to the plagiarism detection software. All submitted 
+work is subject to normal verification that standards of academic integrity have been upheld 
+(e.g., on-line search, other software, etc.). For more details about McMaster’s use of 
+Turnitin.com please go to www.mcmaster.ca/academicintegrity. 
+
+Courses with an On-line Element 
+
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn, LearnLink, web pages, 
+capa, Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, 
+when they access the electronic components of a course using these elements, private 
+information such as first and last names, user names for the McMaster e-mail accounts, and 
+program affiliation may become apparent to all other students in the same course. The 
+available information is dependent on the technology used. Continuation in a course that uses 
+on-line elements will be deemed consent to this disclosure. If you have any questions or 
+concerns about such disclosure please discuss this with the course instructor. 
+
+Online Proctoring 
+
+Some courses may use online proctoring software for tests and exams. This software may 
+require students to turn on their video camera, present identification, monitor and record their 
+computer activities, and/or lock/restrict their browser or other applications/software during 
+tests or exams. This software may be required to be installed before the test/exam begins. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to 
+demonstrate, respectful and dignified interactions within all of our living, learning and 
+working communities. These expectations are described in the Code of Student Rights & 
+Responsibilities (the “Code”). All students share the responsibility of maintaining a positive 
+environment for the academic and personal growth of all McMaster community members, 
+whether in person or online. 
+
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in effect 
+in virtual learning environments. The Code applies to any interactions that adversely affect, 
+disrupt, or interfere with reasonable participation in University activities. Student disruptions or 
+behaviours that interfere with university functions on online platforms (e.g. use of Avenue 2 
+Learn, WebEx, Echo360, Microsoft Teams or Zoom for delivery), will be taken very seriously and 
+will be investigated. Outcomes may include restriction or removal of the involved students’ 
+access to these platforms. 
+
+Academic Accommodation of Students with Disabilities 
+
+Students with disabilities who require academic accommodation must contact Student 
+Accessibility Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make 
+arrangements with a Program Coordinator. For further information, consult McMaster 
+University’s Academic Accommodation of Students with Disabilities policy. 
+
+Requests for Relief for Missed Academic Term Work 
+
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other 
+reasons, students should review and follow the Academic Regulation in the Undergraduate 
+Calendar “Requests for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+Students requiring academic accommodation based on religious, indigenous or spiritual 
+observances should follow the procedures set out in the RISO policy. Students should submit 
+their request to their Faculty Office normally within 10 working days of the beginning of term 
+in which they anticipate a need for accommodation or to the Registrar's Office prior to their 
+examinations. Students should also contact their instructors as soon as possible to make 
+alternative arrangements for classes, assignments, and tests. 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course 
+material provided by an instructor include copyright protected works. The Copyright Act 
+and copyright law protect every original literary, dramatic, musical and artistic work, 
+including lectures by University instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by 
+a student for the purpose of personal study. Students should be aware that their voice and/or 
+image may be recorded by others during the class. Please speak with the instructor if this is a 
+concern for you. 
+
+Extreme Circumstances 
+
+The University reserves the right to change the dates and deadlines for any or all courses in 
+extreme circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be 
+communicated through regular McMaster communication channels, such as McMaster Daily 
+News, Avenue to Learn and/or McMaster email. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

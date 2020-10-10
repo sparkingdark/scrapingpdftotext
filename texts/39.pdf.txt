@@ -1,0 +1,533 @@
+ 
+
+MOL BIOL 3II3 
+Molecular Genetics of Eukaryotes 
+Winter 2021 Course Outline 
+ 
+
+Course Details 
+
+Instructor: André Bédard, abedard@mcmaster.ca; 905-525-9140 x23149 
+ 
+Office hours: To be discussed in class. 
+  
+TAs:   TBA 
+ 
+Lectures:  
+  
+Tutorials:  
+ 
+ 
+ 
+
+T01 Wed. 1:30-2:20PM 
+T02 Wed. 11:30AM-12:20PM 
+T03 Tu.    1:30-2:20PM 
+
+Tu We Fr 12:30-1:20PM, Locations to be Determined 
+
+ 
+ 
+
+Course Description 
+
+ 
+The Molecular Genetics of Eukaryotes has progressed rapidly with the initiation and completion of several 
+projects  on  the  human  genome  and  the  genome  of  model  organisms  (yeast,  worm,  fly,  Arabidopsis, 
+zebrafish,  mouse,  etc…).    In  addition,  the  characterization  of  gene  expression  at  the  RNA  level 
+(transcriptome) revealed the existence of numerous genes encoding non-coding RNAs. Long known as 
+products of the “Dark Genome”, these genes code for RNAs playing a role in a wide variety of processes 
+ranging from the maintenance of genome integrity to the fine control of gene expression.  In this course, 
+we will describe the recent advances in the characterization of the eukaryotic genome, the control of gene 
+expression and the role played by epigenetics in these processes.  Regulatory mechanisms described in 
+model organisms (plant, worm, fly, in particular) and epigenetic processes involved in trans-generational 
+inheritance  will  be  emphasized.    A  wide  variety  of  topics  ranging  from  transcriptional  and  post-
+transcriptional  regulatory  processes  to  ethical  questions  arising  from  this  new  knowledge  will  be 
+presented in lectures and tutorials. 
+ 
+
+Course Learning Objectives 
+
+ 
+The central objective of this course is to present the recent advances on the characterization of eukaryotic 
+genomes particularly in light of the recent genome sequencing data and transcriptomic analyses of gene 
+expression.  Mechanisms of gene expression and epigenetic processes will be discussed more thoroughly.  
+By the end of this course, it is expected that students: 
+ 
+
+●  Will have a good understanding of the structure or eukaryotic genomes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+●  Will be able to integrate data obtained from sequencing analyses, transcriptome 
+
+characterization and genome-wide association studies (GWAS). 
+
+●  Will know the basic mechanisms of eukaryotic gene expression with a particular focus on 
+
+transcription and coupling mechanisms of transcriptional and post-transcriptional regulatory 
+processes. 
+
+●  Will have a good knowledge of processes depending on the state of chromatin condensation 
+
+including the molecular machinery controlling this state(s). 
+
+●  Will understand the role of long and short non-coding RNAs in the control of gene expression, 
+
+chromatin condensation and the maintenance of genome integrity. 
+
+●  Will understand the role of pioneering transcription factors in cell reprogramming. 
+●  Will have significant understanding of processes of epigenetic transgenerational inheritance. 
+
+  
+
+ 
+
+ 
+
+ 
+
+Course Schedule and List of Topics for 2021 
+
+Each “Unit” corresponds to about three lectures or one week of lecturing according to the following 
+order: 
+ 
+
+1-  Introduction: Characterization of the Eukaryotic Genome – A Work in Progress  
+
+ 
+
+ 
+
+The “Dark Genome”  
+
+-      Insight provided by genome and transcriptome sequencing projects 
+  How much of the genome is transcribed? 
+ 
+-
+  What is a gene?  
+-
+  Why study the “non-protein-coding” regions of the genome?  
+-
+Answers from “Genome-Wide Association Studies” (GWAS) 
+-
+
+2-  Control of Gene Expression: Review of Basic Principles 
+
+3-  Histone Code 
+
+Transcription Initiation – Recruitment of the Basic Transcription Machinery  
+
+ 
+  Coupling in transcriptional and post-transcriptional processes 
+-
+-
+  Readers, Writers and Erasers 
+  Principles in Chromatin Modification 
+-
+ 
+-
+
+4-  Active vs Repressed Chromatin States: Overview 
+
+Euchromatin vs Heterochromatin 
+
+ 
+  DNA methylation and DNA methylases recruitment 
+-
+  DNA methylation in monozygotic twins. 
+-
+-
+
+5-  Control of Gene Expression at the Chromatin level 
+
+  Chromatin Modification and Chromatin Remodeling Complexes 
+ “Noise” vs Spurious Transcription in the absence of Repression 
+ 
+-
+Trx and PcG Complexes 
+ 
+-
+  HP1 and Chromatin Silencing 
+-
+-
+
+ 
+
+ 
+
+2 
+
+ 
+
+6-  Role of Noncoding RNAs in chromatin modification and gene expression 
+LncRNAs in scaffolding/recruitment of Chromatin Complexes 
+
+ 
+  DNA methylation is coupled to the recruitment of chromatin modification 
+-
+-
+  Control of gene expression by miRNA and other small non-coding RNAs (sncRNAs) 
+
+complexes 
+
+7-  Pioneering Transcription Factors in Gene Activation 
+
+8-  Epigenetic Processes in the Maintenance of Genome Integrity 
+
+Inducible Pluripotent Stem Cells - iPSC 
+ 
+
+  Pioneering Transcription Factors; Definition 
+  Cell Reprogramming by Pioneering Transcription Factors 
+-
+ 
+-
+-
+  Maintenance of the Chromatin State during Cell Replication 
+  Maintenance of Genome Integrity: piRNAs & Transposon Silencing 
+-
+-
+
+ 
+
+9-  Epigenetic Mechanisms of Transgenerational Inheritance  
+
+Starvation Response in Worms: siRNAs 
+Stress Response in Fly: Role of PgC Complexes 
+Stress Response in Plants 
+
+10- Transgenerational Inheritance in humans? 
+
+Epigenetic Reprogramming during Gametogenesis 
+Stress Response and Stress Markers 
+“Lifestyle in the sperm”: Role of small RNAs 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-
+
+ 
+ 
+-
+ 
+-
+-
+
+ 
+ 
+-
+ 
+-
+-
+
+-
+
+11-  Personalized/Precision Medicine and Current Questions in Bioethics 
+  Definition and Goals of Precision Medicine 
+  Cancer Epigenetics, the “Cancer Genome Project”, the “Canadian Epigenetics, 
+-
+-
+  Bioethical Questions: - “Don’t Blame the Mothers”  (Longitudinal Studies on stress 
+
+Environment and Health Research Consortium” (CEEHRC) 
+
+response genes) 
+
+12- Genome Editing 
+
+  CRISPR and other approaches 
+  Case study and ethical issues 
+-
+-
+
+ 
+
+ 
+ 
+IMPORTANT NOTE 
+The instructor and university reserve the right to modify elements of the course during the term. The university 
+may change the dates and deadlines for any or all courses in extreme circumstances. If any modification becomes 
+necessary, reasonable notice and communication with the students will be given with explanation and the 
+opportunity to comment on changes. It is the responsibility of the student to check their McMaster email and 
+course websites weekly during the term and to note any changes.  Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or McMaster 
+email. 
+ 
+ 
+
+3 
+
+ 
+
+ 
+There is no textbook recommended for this course but reference/review articles will be provided in 
+Avenue to Learn.  All lecture notes/presentations will also be made available through Avenue. 
+ 
+
+Course Materials 
+
+Course Evaluation 
+
+ 
+COURSE EVALUATION:  
+ 
+Midterm I (“in class”) 
+Midterm II (“in class”) 
+Tutorial presentation 
+Tutorial summary 
+Tutorial participation 
+Final Exam 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+25% 
+25% 
+  9% 
+  6% 
+  5% 
+30%  
+
+The mid-term tests will be given in-class at the regular lecture time.  The exact date of the first and 
+ 
+second mid-term will be discussed with the class during the semester. 
+
+TUTORIALS SESSIONS: 
+
+ 
+The  class  will  be  divided  into  two  groups  for  tutorial  sessions.    The  tutorials  will  consist  in  the  short 
+presentation (15-20 min) of a research article on current topics of interest by the students.  These articles 
+will be selected by the course coordinator. A summary of the article, worth 6% of the final grade, must 
+also  be  provided  by  the  student  presenting  the  article.    A  schedule  of  these  presentations  will  be 
+established early in the semester. Participation to the tutorials will be evaluated though completion of 
+forms by students attending the tutorials.  Guidelines, including the marking scheme, for the presentation 
+and summary of the article will be discussed in class/tutorials and posted on Avenue to Learn. 
+ 
+ 
+
+Academic Integrity 
+
+You are expected to exhibit honesty and use ethical behaviour in all aspects of the learning process. 
+Academic credentials you earn are rooted in principles of honesty and academic integrity. It is your 
+responsibility to understand what constitutes academic dishonesty. 
+
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in 
+unearned academic credit or advantage. This behaviour can result in serious consequences, e.g. the 
+grade of zero on an assignment, loss of credit with a notation on the transcript (notation reads: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+“Grade of F assigned for academic dishonesty”), and/or suspension or expulsion from the university. 
+For information on the various types of academic dishonesty please refer to the Academic Integrity 
+Policy, located at https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+
+The following illustrates only three forms of academic dishonesty: 
+
+●  plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+
+obtained. 
+
+● 
+
+improper collaboration in group work. 
+
+●  copying or using unauthorized aids in tests and examinations. 
+
+ 
+
+Authenticity/Plagiarism Detection 
+
+Some courses may use a web-based service (Turnitin.com) to reveal authenticity and ownership of 
+student submitted work. For courses using such software, students will be expected to submit their 
+work electronically either directly to Turnitin.com or via an online learning platform (e.g. Avenue to 
+Learn, etc.) using plagiarism detection (a service supported by Turnitin.com) so it can be checked for 
+academic dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection software must 
+inform the Instructor before the assignment is due. No penalty will be assigned to a student who does 
+not submit work to the plagiarism detection software. All submitted work is subject to normal 
+verification that standards of academic integrity have been upheld (e.g., on-line search, other 
+software, etc.). For more details about McMaster’s use of Turnitin.com please go to 
+www.mcmaster.ca/academicintegrity. 
+ 
+
+Courses with an On-line Element 
+
+Some courses may use on-line elements (e.g. e-mail, Avenue to Learn, LearnLink, web pages, capa, 
+Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, when they 
+access the electronic components of a course using these elements, private information such as first and 
+last names, user names for the McMaster e-mail accounts, and program affiliation may become 
+apparent to all other students in the same course. The available information is dependent on the 
+technology used. Continuation in a course that uses on-line elements will be deemed consent to this 
+disclosure. If you have any questions or concerns about such disclosure please discuss this with the 
+course instructor. 
+ 
+
+Online Proctoring 
+
+Some courses may use online proctoring software for tests and exams. This software may require 
+students to turn on their video camera, present identification, monitor and record their computer 
+activities, and/or lock/restrict their browser or other applications/software during tests or exams. This 
+software may be required to be installed before the test/exam begins. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, 
+respectful and dignified interactions within all of our living, learning and working communities. These 
+expectations are described in the Code of Student Rights & Responsibilities (the “Code”). All students 
+share the responsibility of maintaining a positive environment for the academic and personal growth 
+of all McMaster community members, whether in person or online. 
+
+ 
+
+It is essential that students be mindful of their interactions online, as the Code remains in effect in 
+virtual learning environments. The Code applies to any interactions that adversely affect, disrupt, or 
+interfere with reasonable participation in University activities. Student disruptions or behaviours that 
+interfere with university functions on online platforms (e.g. use of Avenue 2 Learn, WebEx, Echo360, 
+Microsoft Teams or Zoom for delivery), will be taken very seriously and will be investigated. Outcomes 
+may include restriction or removal of the involved students’ access to these platforms. 
+ 
+
+Academic Accommodation of Students with Disabilities 
+
+Students with disabilities who require academic accommodation must contact Student Accessibility 
+Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program 
+Coordinator. For further information, consult McMaster University’s Academic Accommodation of 
+Students with Disabilities policy. 
+ 
+ 
+ 
+
+Requests for Relief for Missed Academic Term Work 
+
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other reasons, 
+students should review and follow the Academic Regulation in the Undergraduate Calendar “Requests 
+for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+ 
+
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+Students requiring academic accommodation based on religious, indigenous or spiritual observances 
+should follow the procedures set out in the RISO policy. Students should submit their request to their 
+Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need 
+for accommodation or to the Registrar's Office prior to their examinations. Students should also contact 
+their instructors as soon as possible to make alternative arrangements for classes, assignments, and 
+tests. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course material 
+provided by an instructor include copyright protected works. The Copyright Act and copyright law 
+protect every original literary, dramatic, musical and artistic work, including lectures by University 
+instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by a 
+student for the purpose of personal study. Students should be aware that their voice and/or image may 
+be recorded by others during the class. Please speak with the instructor if this is a concern for you. 
+ 
+
+Extreme Circumstances 
+
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or 
+McMaster email. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+

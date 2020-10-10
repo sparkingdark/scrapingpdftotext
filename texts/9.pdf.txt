@@ -1,0 +1,640 @@
+BIOLOGY 2EE3 
+Introduction to Microbiology and Biotechnology 
+Winter 2021 Course Outline 
+
+Course Details 
+
+ 
+
+ 
+INSTRUCTOR: 
+OFFICE HOURS: 
+
+ 
+
+ 
+
+  
+LAB TAs:  
+ 
+LECTURES: 
+ 
+LABORATORIES: 
+ 
+
+ 
+
+ 
+
+Dr. Turlough Finan, LSB-537 (finan@mcmaster.ca) 
+Location/platform, day, and time to be determined.  Appointments can 
+be made by contacting Dr. Finan 
+
+COURSE AND LAB COORDINATOR: Alastair Tracey, LSB-119 (bioyr2@mcmaster.ca) 
+
+To be determined (TBD). 
+
+Mondays and Thursdays, 12:30-1:20, Tuesdays 1:30-2:20, location TBD. 
+ 
+Monday to Thursday, 8:30-11:20 or 2:30-5:20 in LSB 104 
+
+Course Description 
+
+ 
+Microbial structure, genetics, metabolism, and evolution. Overview of agricultural, medical, 
+environmental, and industrial microbiology. Covers key concepts, fundamental principles, and common 
+research tools in microbiology 
+Prerequisite(s): ISCI 1A24, or Biology 1A03, Biology 1M03, Chemistry 1A03, Chemistry 1AA3, or 
+registration in Level III Chem Engineering and Bioengineering. If not already completed, BIOSAFE 1BS0 
+(or HTHSCI 1BS0) must be completed prior to the first lab. 
+ 
+The course will be delivered via live lectures and in-person laboratory activities. The midterm test will  
+occur in the evening outside of scheduled lecture time. Laboratories will occur during the term as  
+scheduled and seen in each student’s Mosaic timetable.  
+ 
+
+Course Learning Objectives 
+
+ 
+By the end of this course students will: 
+ 
+1.  Have a broad fundamental knowledge and appreciation of microbiological concepts and applications. 
+
+2.  Be able to distinguish key differences between major groups of microorganisms. 
+ 
+
+1 of 8 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+3.  Have a basic understanding of the structure, physiology, biochemistry and genetics of microorganisms. 
+ 
+4.  Have a basic understanding of the evolution of microorganisms. 
+ 
+5.  Understand the importance of microorganisms in the environment and in agriculture, medicine and 
+
+6.  Be  able  to  use  basic  microbiology  lab  equipment  and  perform  microbiological  lab  techniques 
+
+ 
+7.  Be able to interpret and analyse laboratory results and produce written reports on experiments and 
+
+industry.  
+ 
+
+aseptically. 
+
+observations. 
+ 
+
+8.  Be prepared for upper-level courses on more advanced microbiological topics and/or experimentation. 
+ 
+
+ 
+
+ 
+
+Course Schedule 
+
+ 
+IMPORTANT DATES:  
+
+Jan. 6  
+Jan. 7 
+Jan. 11-15  
+Jan. 18-22  
+Feb. 15-21  
+Feb. 23 
+Apr. 8 
+Apr. 9  
+
+Classes begin 
+First Bio 2EE3 lecture 
+Lab 1 for ODD numbered lab sections 
+Lab 1 for EVEN numbered lab sections 
+Reading Week 
+Midterm exam 
+Last Bio 2EE3 lecture 
+Classes end 
+
+LECTURE TOPICS 
+
+This course provides students with a broad overview of microbiology and an understanding of the key 
+concepts,  fundamental  principles,  and  common  research  tools  in  microbiology.  The  topics  include  the 
+history and scope of microbiology, the fundamentals of microbial cell biology, cell structure, reproduction, 
+genetics, metabolism, ecology, evolution, diversity, systematics, genomics, and overviews of the applied 
+fields  in  agricultural,  medical,  environmental  and  industrial  microbiology.  This  course  also  prepares 
+students for more advanced courses offered at the third and fourth-year levels, e.g. Microbial Genetics 
+(MolBiol 3O03), Techniques in Molecular Genetics (MolBiol 3V03), Microbial Diversity & Environmental 
+Biotechnology (Bio 4PP3), and Medical Microbiology (MolBiol 4P03). These courses systematically build 
+knowledge in all areas of modern microbiology.  
+
+2 of 8 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+LAB DETAILS 
+
+ 
+
+ 
+The laboratory periods are mandatory and are intended to familiarize students with the important basic 
+methods  used  by  microbiologists  and  essentially  all  molecular  biologists.  The  main  methods  include 
+aseptic  techniques, 
+isolation  of  specific  microorganisms  from  mixed  populations,  microscopic 
+examination of microorganisms, microbial physiology, the polymerase chain reaction, gel electrophoresis, 
+DNA sequence analyses, and yeast fermentation. The laboratory manuals will be posted as PDF files on 
+the course’s Avenue website for downloading and printing. Completion of the labs and lab reports is a 
+requirement for passing the course. 
+
+ 
+LAB SCHEDULE: Biology 2EE3 labs will not occur during the week of January 4 – 8. 
+ 
+
+DATES 
+Week of Jan. 11: ODD# 
+Week of Jan. 18: EVEN# 
+Week of Jan. 25: ODD# 
+Week of Feb. 1: EVEN# 
+Week of Feb. 8: ODD# 
+
+ 
+Week of Feb. 15-19 
+
+LAB 
+Lab 1 
+
+Lab 2 
+
+Lab 3 
+
+TOPIC 
+Identifying bacteria by traditional 
+means 
+Working with viruses 
+
+ASSESSMENT 
+Informal report  
+
+Informal report 
+
+Conjugation and antibiotic resistance 
+
+Formal lab report 
+
+ 
+
+MIDTERM RECESS 
+
+Week of Feb. 22: EVEN# 
+
+Lab 3 
+
+Conjugation and antibiotic resistance 
+
+Formal lab report 
+
+Week of Mar. 1: EVEN # 
+Week of Mar. 8: ODD# 
+Week of Mar. 15: EVEN# 
+Week of Mar. 22: ODD# 
+
+Lab 4 
+
+Lab 5 
+
+Fermentation, identification by 
+molecular means 
+DNA gel electrophoresis 
+
+Informal report 
+
+ 
+Please check your schedule to ensure that you know which lab room your section is assigned to. 
+Students must attend the lab section to which they have been assigned. Those with ACADEMIC 
+CONFLICTS ONLY should arrange their own lab change through Mosaic prior to the add/drop date. It is 
+your responsibility to attend the correct lab section and room. NOTE: If you are absent from your lab, 
+you may not attend another lab section without previously contacting the course coordinator. If you 
+cannot attend another lab section, you will be required to submit an MSAF.   
+ 
+In the event of a storm closure check Avenue to Learn for alternate arrangements for those lab sections.  
+Specific information may be sent to your McMaster email address. NO OTHER EMAIL ADDRESSES WILL 
+BE USED. 
+ 
+IMPORTANT NOTE 
+The instructor and university reserve the right to modify elements of the course during the term. The university 
+may change the dates and deadlines for any or all courses in extreme circumstances. If any modification becomes 
+necessary, reasonable notice and communication with the students will be given with explanation and the 
+
+ 
+
+ 
+ 
+
+3 of 8 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+opportunity to comment on changes. It is the responsibility of the student to check their McMaster email and 
+course websites weekly during the term and to note any changes.  Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or McMaster 
+email. 
+
+Course Materials 
+
+ 
+RECOMMENDED TEXTBOOK:  Wessner, Dupont and Charles (2013). Microbiology. John Wiley & Sons. 
+ISBN 978-0-471-69434-2 or Wessner, Dupont, Charles and Neufeld (2016). Microbiology 2nd edition. John 
+Wiley  &  Sons.    Etext  ISBN  9781119320661  or  loose-leaf  text  ISBN  9781119498551 available  via  The 
+Campus Store. 
+  
+Lab manuals for each lab will be made available on Avenue to Learn and must be brought to the lab.  
+
+Course Evaluation 
+
+Informal laboratory reports (see the lab details for a detailed breakdown) 
+Formal laboratory report (see the lab details for a detailed breakdown) 
+Laboratory notebook and participation  
+Final Exam; exam is cumulative  
+
+30%  Midterm exam (Tuesday, February 23, 7:00 pm to 9:00 pm) 
+12% 
+10% 
+  3% 
+45% 
+
+The Biology 2EE3 final grades will be calculated based upon the following course assessments: 
+ 
+MARKS: 
+ 
+ 
+ 
+ 
+ 
+If the midterm and final exam cannot be administered in-person, the course may use online proctoring 
+software for the midterm and final exam. This software may require students to turn on their video 
+camera, present identification, monitor and record their computer activities, and/or lock/restrict their 
+browser or other applications/software during midterms or final exams. This software may be required 
+to be installed before the midterm/final exam begins. 
+  
+Please discuss any uncertainties about term grades with the Course Coordinator before the final exam is 
+written.  Final  grades  obtained  for  2EE3  will  be  converted  according  to  the  scheme  used  at McMaster 
+University. 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+A+ 
+A 
+A- 
+B+ 
+B 
+B- 
+
+C+ 
+
+12 
+11 
+10 
+9 
+8 
+7 
+
+6 
+
+63-66% 
+60-62% 
+57-59% 
+53-56% 
+50-52% 
+0-49% 
+ 
+
+C 
+C- 
+D+ 
+D 
+D- 
+F 
+ 
+
+5 
+4 
+3 
+2 
+1 
+0 
+ 
+
+90-100% 
+85-89% 
+80-84% 
+77-79% 
+73-76% 
+70-72% 
+
+67-69% 
+
+ 
+
+4 of 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Requests for Relief for Missed Academic Term Work 
+
+ 
+POLICY REGARDING MISSED WORK IN THE FACULTY OF SCIENCE 
+ 
+McMaster Student Absence Form (MSAF): In the event of an absence for medical or other reasons, 
+students should review and follow the Academic Regulation in the Undergraduate Calendar “Requests 
+for Relief for Missed Academic Term Work”. 
+ 
+View the McMaster Student Absence Form (MSAF) for more information. 
+ 
+Undergraduate students who have missed academic work resulting from a medical or personal situation, 
+lasting  up  to  3  calendar  days,  may  request  relief,  once  per  term,  without  documentation,  using  the 
+McMaster Student Absence Form (MSAF). Absences for a longer duration or for other reasons must be 
+reported  to  your  Faculty/Program  office,  with  documentation,  and  relief  from  term  work  may  not 
+necessarily  be  granted.  When  using  the  MSAF,  please  put  Alastair  Tracey  as  the  contact  email 
+(bioyr2@mcmaster.ca).  Please note that the MSAF may not be used for term work worth 25% or more, 
+nor can it be used for the final examination. 
+ 
+POLICY ON LATE LAB REPORTS 
+Lab reports are due at 2:30 pm, on their respective deadlines after you performed the lab exercises. Lab 
+reports must be submitted in hard copy to the correct Bio 2EE3 dropbox on the first floor of LSB (near the 
+elevators). It is your responsibility to ensure they are placed in the correct dropbox. Reports received after 
+the deadline or found later in the wrong dropbox, will be penalized at 10% per day. If a MSAF is provided, 
+students will receive a 2-day extension on the due date of the lab report. IMPORTANT NOTE – Students 
+MUST complete ALL of the lab components to receive credit for Biology 2EE3. 
+
+ 
+POLICY ON MISSED TESTS 
+The weight of a missed midterm will be added to the value of the final exam if a MSAF is provided. 
+Missing the midterm without a MSAF will receive a grade of zero.   
+ 
+
+Academic Integrity 
+
+ 
+Attention  is  drawn  to  the  Statement  on  Academic  Ethics  and  the  Senate  Resolutions  on  Academic 
+Dishonesty as found in the Senate Policy Statements distributed at registration and available in the Senate 
+Office.  Any student who infringes any one of these resolutions will be treated according to published 
+policy. 
+ 
+You  are  expected  to  exhibit  honesty  and  use  ethical  behaviour  in  all  aspects  of  the  learning  process. 
+Academic  credentials  you  earn  are  rooted  in  principles  of  honesty  and  academic  integrity.  It  is  your 
+responsibility to understand what constitutes academic dishonesty. 
+ 
+
+5 of 8 
+
+ 
+
+ 
+ 
+
+ 
+Academic dishonesty is to knowingly act or fail to act in a way that results or could result in unearned 
+academic credit or advantage. This behaviour can result in serious consequences, e.g. the grade of zero 
+on an assignment, loss of credit with a notation on the transcript (notation reads: “Grade of F assigned 
+for academic dishonesty”), and/or suspension or expulsion from the university. For information on the 
+various  types  of  academic  dishonesty  please  refer  to  the  Academic  Integrity  Policy,  located  at 
+https://secretariat.mcmaster.ca/university-policies-procedures- guidelines/ 
+ 
+The following illustrates only three forms of academic dishonesty: 
+
+1.  Plagiarism, e.g. the submission of work that is not one’s own or for which other credit has been 
+
+2. 
+
+obtained.  
+Improper collaboration in group work.  While students may find it helpful to discuss assignments 
+with each other, it is not acceptable to prepare common answers.  Where laboratories require 
+you to work in groups the data obtained will be all the same, but your treatment of it (tables, 
+graphs,  Results  &  Discussion)  must  be  your  own  individual  work.  Your  answers  to  theory 
+questions, results & discussion & computer derived graphs should be your own.  For example, 
+you and your lab partner(s) cannot print/insert 2 to 4 versions of the same graph(s) in your lab 
+reports  even  though  you  are  working  with  the  same  data.  Each  student  must  create  and 
+print/insert their own versions of the graphs in biology labs even though their data is the same 
+as their lab partners. 
+
+3.  Copying or using unauthorized aids in tests and examinations. 
+
+Authenticity/Plagiarism Detection 
+
+ 
+Some  courses  may  use  a  web-based  service  (Turnitin.com)  to  reveal  authenticity  and  ownership  of 
+student submitted work. For courses using such software, students will be expected to submit their work 
+electronically either directly to Turnitin.com or via an online learning platform (e.g. Avenue to Learn, etc.) 
+using  plagiarism  detection  (a  service  supported  by  Turnitin.com)  so  it  can  be  checked  for  academic 
+dishonesty. 
+  
+Students who do not wish their work to be submitted through the plagiarism detection software must 
+inform the Instructor before the assignment is due. No penalty will be assigned to a student who does not 
+submit work to the plagiarism detection software. All submitted work is subject to normal verification 
+that standards of academic integrity have been upheld (e.g., on-line search, other software, etc.). For 
+more details about McMaster’s use of Turnitin.com please go to www.mcmaster.ca/academicintegrity. 
+ 
+
+Courses with an On-line Element 
+
+ 
+Some  courses  may  use  on-line  elements  (e.g.  e-mail,  Avenue  to  Learn,  LearnLink,  web  pages,  capa, 
+Moodle, Echo360, Microsoft Teams, ThinkingCap, etc.). Students should be aware that, when they access 
+the electronic components of a course using these elements, private information such as first and last 
+names, user names for the McMaster e-mail accounts, and program affiliation may become apparent to 
+all other students in the same course. The available information is dependent on the technology used. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 of 8 
+
+ 
+
+ 
+ 
+
+ 
+Continuation in a course that uses on-line elements will be deemed consent to this disclosure. If you have 
+any questions or concerns about such disclosure please discuss this with the course instructor. 
+ 
+
+Online Proctoring 
+
+ 
+Some  courses  may  use  online  proctoring  software  for  tests  and  exams.  This  software  may  require 
+students  to  turn  on  their  video  camera,  present  identification,  monitor  and  record  their  computer 
+activities, and/or lock/restrict their browser or other applications/software during tests or exams. This 
+software may be required to be installed before the test/exam begins. 
+ 
+
+Conduct Expectations 
+
+As a McMaster student, you have the right to experience, and the responsibility to demonstrate, 
+respectful and dignified interactions within all of our living, learning and working communities. These 
+expectations are described in the Code of Student Rights & Responsibilities (the “Code”). All students 
+share the responsibility of maintaining a positive environment for the academic and personal growth 
+of all McMaster community members, whether in person or online. 
+
+ 
+It is essential that students be mindful of their interactions online, as the Code remains in effect in 
+virtual learning environments. The Code applies to any interactions that adversely affect, disrupt, or 
+interfere with reasonable participation in University activities. Student disruptions or behaviours that 
+interfere with university functions on online platforms (e.g. use of Avenue 2 Learn, WebEx, Echo360, 
+Microsoft Teams or Zoom for delivery), will be taken very seriously and will be investigated. Outcomes 
+may include restriction or removal of the involved students’ access to these platforms. 
+ 
+
+Academic Accommodation of Students with Disabilities 
+
+ 
+Students with disabilities who require academic accommodation must contact Student Accessibility 
+Services (SAS) at 905-525-9140 ext. 28652 or sas@mcmaster.ca to make arrangements with a Program 
+Coordinator. For further information, consult McMaster University’s Academic Accommodation of 
+Students with Disabilities policy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+7 of 8 
+
+ 
+Academic Accommodation for Religious, Indigenous or Spiritual Observances 
+(RISO) 
+
+ 
+Students requiring academic accommodation based on religious, indigenous or spiritual observances 
+should follow the procedures set out in the RISO policy. Students should submit their request to their 
+Faculty Office normally within 10 working days of the beginning of term in which they anticipate a need 
+for accommodation or to the Registrar's Office prior to their examinations. Students should also contact 
+their instructors as soon as possible to make alternative arrangements for classes, assignments, and 
+tests. 
+ 
+
+Copyright and Recording 
+
+Students are advised that lectures, demonstrations, performances, and any other course material 
+provided by an instructor include copyright protected works. The Copyright Act and copyright law 
+protect every original literary, dramatic, musical, and artistic work, including lectures by University 
+instructors 
+ 
+The recording of lectures, tutorials, or other methods of instruction may occur during a course. 
+Recording may be done by either the instructor for the purpose of authorized distribution, or by a 
+student for the purpose of personal study. Students should be aware that their voice and/or image may 
+be recorded by others during the class. Please speak with the instructor if this is a concern for you. 
+ 
+
+Extreme Circumstances 
+
+ 
+The University reserves the right to change the dates and deadlines for any or all courses in extreme 
+circumstances (e.g., severe weather, labour disruptions, etc.). Changes will be communicated through 
+regular McMaster communication channels, such as McMaster Daily News, Avenue to Learn and/or 
+McMaster email. 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 of 8 
+
+ 
+
+ 
+ 
+
+
