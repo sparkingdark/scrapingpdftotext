@@ -12,7 +12,7 @@ def getlinesasjson(paths,jsonfile):
             for i in content:
                 if i==" \n" or i=="  \n" or "\n":
                    content.remove(i)
-            dic.update({i:content[:31]})
+            dic.update({i:"".join(content[:31])})
         f.close()
     with open(jsonfile,'w+') as p:
         json.dump(dic,fp=p)
